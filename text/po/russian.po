@@ -14,47 +14,47 @@ msgstr ""
 
 #: game/scrnset.msg:0
 msgid "Game Preferences"
-msgstr ""
+msgstr "Настройки Игры"
 
 #: game/scrnset.msg:1 game/scrnset.msg:50
 msgid "Screen Settings"
-msgstr ""
+msgstr "Настройки Экрана"
 
 #: game/scrnset.msg:51
 msgid "Custom"
-msgstr ""
+msgstr "СПЕЦ. ВЫБОР"
 
 #: game/scrnset.msg:52
 msgid "Width"
-msgstr ""
+msgstr "Ширина"
 
 #: game/scrnset.msg:53
 msgid "Height"
-msgstr ""
+msgstr "Высота"
 
 #: game/scrnset.msg:54
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 #: game/scrnset.msg:55
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #: game/scrnset.msg:56
 msgid "Fallout must restart to apply settings."
-msgstr ""
+msgstr "Перезагрузка игры для сохранения изменений."
 
 #: game/scrnset.msg:57
 msgid "Would you like to restart Fallout now?"
-msgstr ""
+msgstr "Хотите перезагрузить Fallout 2?"
 
 #: game/scrnset.msg:58
 msgid "True"
-msgstr ""
+msgstr "Вкл."
 
 #: game/scrnset.msg:59
 msgid "False"
-msgstr ""
+msgstr "Откл."
 
 #. LEAVE empty space in translation
 #: game/scrnset.msg:60 game/scrnset.msg:143 game/scrnset.msg:145
@@ -64,79 +64,79 @@ msgstr ""
 
 #: game/scrnset.msg:100
 msgid "Hi-Res"
-msgstr ""
+msgstr "HD"
 
 #: game/scrnset.msg:101
 msgid "RESOLUTION"
-msgstr ""
+msgstr "РАЗРЕШЕНИЕ"
 
 #: game/scrnset.msg:102
 msgid "Colours"
-msgstr ""
+msgstr "ЦВЕТ"
 
 #: game/scrnset.msg:103
 msgid "8 Bit"
-msgstr ""
+msgstr "8 бит"
 
 #: game/scrnset.msg:104
 msgid "16 Bit"
-msgstr ""
+msgstr "16 бит"
 
 #: game/scrnset.msg:105
 msgid "32 Bit"
-msgstr ""
+msgstr "32 бита"
 
 #: game/scrnset.msg:106
 msgid "Change Side-Bar Art"
-msgstr ""
+msgstr "Графика Игровой Панели"
 
 #: game/scrnset.msg:107
 msgid "Invert List"
-msgstr ""
+msgstr "Обратный порядок"
 
 #: game/scrnset.msg:108
 msgid "Windowed"
-msgstr ""
+msgstr "В Окне"
 
 #: game/scrnset.msg:109
 msgid "Set Scroll Key"
-msgstr ""
+msgstr "Задать кнопку"
 
 #: game/scrnset.msg:110
 msgid "Scaling X2"
-msgstr ""
+msgstr "Масштаб X2"
 
 #: game/scrnset.msg:111
 msgid "Refresh Rate"
-msgstr ""
+msgstr "Частота Экрана"
 
 #: game/scrnset.msg:130
 msgid "Window Key"
-msgstr ""
+msgstr "Кнопка Режима в Окне"
 
 #: game/scrnset.msg:131
 msgid "Select"
-msgstr ""
+msgstr "Выбор"
 
 #: game/scrnset.msg:132
 msgid "Name"
-msgstr ""
+msgstr "Имени"
 
 #: game/scrnset.msg:140
 msgid "Graphics Mode:"
-msgstr ""
+msgstr "Режим Графики:"
 
 #: game/scrnset.msg:141
 msgid "Basic"
-msgstr ""
+msgstr "Базовый Режим"
 
 #: game/scrnset.msg:142
 msgid "Sfall DirectX 9 Mode:"
-msgstr ""
+msgstr "Sfall DirectX9:"
 
 #: game/scrnset.msg:144
 msgid "DirectDraw 7"
-msgstr ""
+msgstr "Direct Draw 7"
 
 #: game/scrnset.msg:147
 msgid "Direct3D 9"
@@ -152,43 +152,43 @@ msgstr ""
 
 #: game/scrnset.msg:150
 msgid "Panel Scaling"
-msgstr ""
+msgstr "Панель Масшт-вания"
 
 #: game/scrnset.msg:151
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 #: game/scrnset.msg:152
 msgid "Fit"
-msgstr ""
+msgstr "Центр"
 
 #: game/scrnset.msg:153
 msgid "Fill"
-msgstr ""
+msgstr "Край"
 
 #: game/scrnset.msg:154
 msgid "Movies"
-msgstr ""
+msgstr "Ролики"
 
 #: game/scrnset.msg:155
 msgid "Splash"
-msgstr ""
+msgstr "Заставки"
 
 #: game/scrnset.msg:156
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
 #: game/scrnset.msg:157
 msgid "Death"
-msgstr ""
+msgstr "Смерть"
 
 #: game/scrnset.msg:158
 msgid "End Slides"
-msgstr ""
+msgstr "Концовки"
 
 #: game/scrnset.msg:159
 msgid "Main Menu"
-msgstr ""
+msgstr "Глав. Меню"
 
 #: game/scrnset.msg:200
 msgid "Sfall"
@@ -196,23 +196,23 @@ msgstr ""
 
 #: game/scrnset.msg:201
 msgid "SCALE-TO: RES."
-msgstr ""
+msgstr "УВЕЛ.-ДО: РАЗРЕШ."
 
 #: game/scrnset.msg:202
 msgid "DX-9 MODE"
-msgstr ""
+msgstr "Режим DX-9"
 
 #: game/scrnset.msg:203
 msgid "Off"
-msgstr ""
+msgstr "Вык."
 
 #: game/scrnset.msg:204
 msgid "Fullscreen"
-msgstr ""
+msgstr "Полный Экран"
 
 #: game/scrnset.msg:205
 msgid "Window"
-msgstr ""
+msgstr "В Окне"
 
 #: game/scrnset.msg:206
 msgid "GPU Blitting"
@@ -220,173 +220,200 @@ msgstr ""
 
 #: game/scrnset.msg:207
 msgid "This setting has no effect while in Basic Graphics Mode."
-msgstr ""
+msgstr "Эта опция не действует в Базовом режиме."
 
 #: game/scrnset.msg:250
 msgid "Ignore PC Scroll Limit"
-msgstr ""
+msgstr "Игнор лимита прокрутки"
 
 #: game/scrnset.msg:253
 msgid "Path Finding Range"
-msgstr ""
+msgstr "Диапазон Поиска Пути"
 
 #: game/scrnset.msg:254
 msgid "Normal"
-msgstr ""
+msgstr "Стандарт"
 
 #: game/scrnset.msg:255
 msgid "Max"
-msgstr ""
+msgstr "Максимальный"
 
 #: game/scrnset.msg:256
 msgid "Enable Fog Of War"
-msgstr ""
+msgstr "Опция \"Туман Войны\""
 
 #: game/scrnset.msg:257
 msgid "Fog Visibility"
-msgstr ""
+msgstr "Уровень Видимости"
 
 #: game/scrnset.msg:258
 msgid "Dark"
-msgstr ""
+msgstr "Темнее"
 
 #: game/scrnset.msg:259
 msgid "Brighter"
-msgstr ""
+msgstr "Светлее"
 
 #: game/scrnset.msg:300
 msgid "PRESS A KEY or ESC to cancel."
-msgstr ""
+msgstr "НАЖМИТЕ ЛЮБУЮ КНОПКУ или ESC, чтобы отменить."
 
 #: game/scrnset.msg:500
 msgid "Hi-Res Patch settings."
-msgstr ""
+msgstr "Настройки патча высокого разрешения."
 
 #: game/scrnset.msg:501
 msgid ""
 "Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen "
 "Mode."
 msgstr ""
+"Определяет разрешение, глубину цвета и частоту обновления экрана в "
+"полноэкранном режиме."
 
 #: game/scrnset.msg:502
 msgid "Setup the Fullscreen Colour output here."
-msgstr ""
+msgstr "Определяет глубину цветовой гаммы."
 
 #: game/scrnset.msg:503
 msgid ""
 "Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver "
 "default setting."
 msgstr ""
+"Определяет частоту обновления экрана. Выставите на '0' для значения драйвера"
+" по умолчанию."
 
 #: game/scrnset.msg:504
 msgid "Customize the Fullscreen Width by clicking the number box."
-msgstr ""
+msgstr "Определяет ширину полноэкранного режима."
 
 #: game/scrnset.msg:505
 msgid "Customize the Fullscreen Height by clicking the number box."
-msgstr ""
+msgstr "Определяет высоту полноэкранного режима."
 
 #: game/scrnset.msg:506
 msgid "Enable or Disable Window Mode."
-msgstr ""
+msgstr "Управление оконным режимом."
 
 #: game/scrnset.msg:507
 msgid ""
 "In Window Mode, this is the key you will hold down when using the mouse to "
 "scroll the Game and World maps."
 msgstr ""
+"В оконном режиме эта клавиша зажимается при использовании мыши для прокрутки"
+" игровой и мировой карт."
 
 #: game/scrnset.msg:508
 msgid ""
 "Press the red button to select a different key. Or click the number box to "
 "edit the Windows Virtual key code."
 msgstr ""
+"Нажмите красную кнопку для выбора другой клавиши. Или кликните на номер в "
+"окошке."
 
 #: game/scrnset.msg:509
 msgid "The name of the currently selected key."
-msgstr ""
+msgstr "Название выбранной на данный момент клавиши."
 
 #: game/scrnset.msg:510
 msgid ""
 "Enable X2 scaling. This will also up the min res to 1280x960. With Window "
 "mode requiring more space for its frame."
 msgstr ""
+"Вкл мастштаб-ние X2. Эта опция увеличит мин-ное разрешение до 1280x960. И в "
+"окне - рамка больше."
 
 #: game/scrnset.msg:511
 msgid ""
 "Enable or Disable Fog Of War. For best results this should be enabled before"
 " entering a map for the first time."
 msgstr ""
+"Вкл или выкл \"Туман Войны\". Для наилучшего результата вкл. данную опцию до"
+" захода на новую карту."
 
 #: game/scrnset.msg:512
 msgid ""
 "Adjust the light level and the Mouse 'look at' visibility of floors, walls "
 "and scenery under the fog."
 msgstr ""
+"Определяет уровень освещенности и видимость полов, стен и объектов под "
+"туманом."
 
 #: game/scrnset.msg:513
 msgid ""
 "Floors, walls and scenery will always be visible and Mouse \"look at\" will "
 "function normally."
 msgstr ""
+"Полы, стены и объекты будут всегда видны, а функция \"Посмотреть на\" - по "
+"умолчанию."
 
 #: game/scrnset.msg:514
 msgid ""
 "Floors, walls and scenery will be darkened and unresponsive to Mouse \"look "
 "at\" until discovered."
 msgstr ""
+"Полы, стены и объекты будут затемнены и не будут реагировать на \"Посмотреть"
+" на\"."
 
 #: game/scrnset.msg:515
 msgid ""
 "When enabled, scrolling away from the Player Character is unlimited. This "
 "works well if Fog Of War enabled."
 msgstr ""
+"Если включена, прокрутка от персонажа игрока не ограничена. Хорошо работает "
+"с \"Туманом Войны\"."
 
 #: game/scrnset.msg:516
 msgid ""
 "Increase the number of search nodes to extend the path finding distance. 20 "
 "levels in 2000 node increments."
 msgstr ""
+"Увеличить число нодов поиска для увеличения дистанции поиска пути. 20 "
+"уровней по 2000 нодовых единиц."
 
 #: game/scrnset.msg:517
 msgid ""
 "2000 path search nodes (original value). Note: Each level requires an "
 "additional 156.25 KB of memory."
 msgstr ""
+"2000 нодов поиска пути (стандарт. знач.) Каждый дополнительный уровень "
+"требует 156.25 Кб памяти."
 
 #: game/scrnset.msg:518
 msgid ""
 "40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory."
 msgstr ""
+"40000 нодов поиска пути. На заметку: Требует 3200000 байт (3125 Кб) памяти."
 
 #: game/scrnset.msg:519
 msgid "Adjust how certain screens are displayed."
-msgstr ""
+msgstr "Выбрать режим отображения определенных игровых экранов."
 
 #: game/scrnset.msg:520
 msgid "Original size."
-msgstr ""
+msgstr "Оригинальный размер."
 
 #: game/scrnset.msg:521
 msgid ""
 "Stretched to fit the size of the screen while maintaining the original "
 "aspect ratio."
-msgstr ""
+msgstr "Растягивает по размеру экрана, сохраняя исходное соотношение сторон."
 
 #: game/scrnset.msg:522
 msgid ""
 "Stretched to fill the screen. Note: A space will remain at the bottom of the"
 " screen if subtitles are enabled."
 msgstr ""
+"Растягивает на весь экран. В нижней части экрана останется пространство, "
+"если субтитры включены."
 
 #: game/scrnset.msg:523
 msgid "Click below to cycle the in-game interface Side Bar options."
-msgstr ""
+msgstr "Нажмите на банер, чтобы поменять графику интерфейса."
 
 #: game/scrnset.msg:524
 msgid "Apply any changes and Exit."
-msgstr ""
+msgstr "Принять изменения и выйти."
 
 #: game/scrnset.msg:525
 msgid "Exit without saving."
-msgstr ""
+msgstr "Выйти без сохранения изменений."

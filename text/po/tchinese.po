@@ -14,39 +14,39 @@ msgstr ""
 
 #: game/scrnset.msg:0
 msgid "Game Preferences"
-msgstr ""
+msgstr "遊戲選項"
 
 #: game/scrnset.msg:1 game/scrnset.msg:50
 msgid "Screen Settings"
-msgstr ""
+msgstr "螢幕設置"
 
 #: game/scrnset.msg:51
 msgid "Custom"
-msgstr ""
+msgstr "自訂"
 
 #: game/scrnset.msg:52
 msgid "Width"
-msgstr ""
+msgstr "寬度"
 
 #: game/scrnset.msg:53
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: game/scrnset.msg:54
 msgid "Done"
-msgstr ""
+msgstr "確定"
 
 #: game/scrnset.msg:55
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: game/scrnset.msg:56
 msgid "Fallout must restart to apply settings."
-msgstr ""
+msgstr "異塵餘生必須重新啟動以應用設置。"
 
 #: game/scrnset.msg:57
 msgid "Would you like to restart Fallout now?"
-msgstr ""
+msgstr "你現在就想要重新啟動異塵餘生嗎？"
 
 #: game/scrnset.msg:58
 msgid "True"
@@ -64,7 +64,7 @@ msgstr ""
 
 #: game/scrnset.msg:100
 msgid "Hi-Res"
-msgstr ""
+msgstr "解析度"
 
 #: game/scrnset.msg:101
 msgid "RESOLUTION"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: game/scrnset.msg:102
 msgid "Colours"
-msgstr ""
+msgstr "色彩品質"
 
 #: game/scrnset.msg:103
 msgid "8 Bit"
@@ -88,7 +88,7 @@ msgstr ""
 
 #: game/scrnset.msg:106
 msgid "Change Side-Bar Art"
-msgstr ""
+msgstr "改變側邊欄樣式"
 
 #: game/scrnset.msg:107
 msgid "Invert List"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: game/scrnset.msg:202
 msgid "DX-9 MODE"
-msgstr ""
+msgstr "DX-9 模式"
 
 #: game/scrnset.msg:203
 msgid "Off"
