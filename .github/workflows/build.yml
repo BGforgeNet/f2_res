@@ -30,6 +30,7 @@ jobs:
         with:
           name: f2_res.zip
           path: f2_res*.zip
+          if-no-files-found: error
 
       - name: Release
         uses: softprops/action-gh-release@v2
@@ -37,5 +38,6 @@ jobs:
         with:
           files: |
             f2_res*.zip
+          fail_on_unmatched_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
