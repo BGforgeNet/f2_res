@@ -1,0 +1,4 @@
+*.zip
+file.list
+release/text
+release/*.dat
