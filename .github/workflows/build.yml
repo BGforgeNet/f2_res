@@ -28,14 +28,14 @@ jobs:
         uses: actions/upload-artifact@v4
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
-          name: f2_res.*.zip
-          path: f2_res.*.zip
+          name: f2_res.zip
+          path: f2_res*.zip
 
       - name: Release
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            f2_res.*.zip
+            f2_res*.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
