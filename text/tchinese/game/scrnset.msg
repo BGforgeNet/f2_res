@@ -1,23 +1,23 @@
-{0}{}{Game Preferences}
-{1}{}{Screen Settings}
-{50}{}{Screen Settings}
-{51}{}{Custom}
-{52}{}{Width}
-{53}{}{Height}
-{54}{}{Done}
-{55}{}{Cancel}
-{56}{}{Fallout must restart to apply settings.}
-{57}{}{Would you like to restart Fallout now?}
+{0}{}{遊戲選項}
+{1}{}{螢幕設置}
+{50}{}{螢幕設置}
+{51}{}{自訂}
+{52}{}{寬度}
+{53}{}{高度}
+{54}{}{確定}
+{55}{}{取消}
+{56}{}{異塵餘生必須重新啟動以應用設置。}
+{57}{}{你現在就想要重新啟動異塵餘生嗎？}
 {58}{}{True}
 {59}{}{False}
 {60}{}{}
-{100}{}{Hi-Res}
+{100}{}{解析度}
 {101}{}{RESOLUTION}
-{102}{}{Colours}
+{102}{}{色彩品質}
 {103}{}{8 Bit}
 {104}{}{16 Bit}
 {105}{}{32 Bit}
-{106}{}{Change Side-Bar Art}
+{106}{}{改變側邊欄樣式}
 {107}{}{Invert List}
 {108}{}{Windowed}
 {109}{}{Set Scroll Key}
@@ -48,7 +48,7 @@
 {159}{}{Main Menu}
 {200}{}{Sfall}
 {201}{}{SCALE-TO: RES.}
-{202}{}{DX-9 MODE}
+{202}{}{DX-9 模式}
 {203}{}{Off}
 {204}{}{Fullscreen}
 {205}{}{Window}

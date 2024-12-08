@@ -1,11 +1,5 @@
-#
-#
-#
-#
-#
 {0}{}{Game Preferences}
 {1}{}{Screen Settings}
-
 {50}{}{Screen Settings}
 {51}{}{Custom}
 {52}{}{Width}
@@ -17,7 +11,6 @@
 {58}{}{True}
 {59}{}{False}
 {60}{}{}
-
 {100}{}{Hi-Res}
 {101}{}{RESOLUTION}
 {102}{}{Colours}
@@ -30,36 +23,29 @@
 {109}{}{Set Scroll Key}
 {110}{}{Scaling X2}
 {111}{}{Refresh Rate}
-
 {130}{}{Window Key}
 {131}{}{Select}
 {132}{}{Name}
-
 {140}{}{Graphics Mode:}
 {141}{}{Basic}
 {142}{}{Sfall DirectX 9 Mode:}
 {143}{}{}
-
 {144}{}{DirectDraw 7}
 {145}{}{}
 {146}{}{}
-
 {147}{}{Direct3D 9}
 {148}{}{Vertex Hardware Processing:}
 {149}{}{Shader Version 2.0:}
-
 {150}{}{Panel Scaling}
 {151}{}{None}
 {152}{}{Fit}
 {153}{}{Fill}
-
 {154}{}{Movies}
 {155}{}{Splash}
 {156}{}{Help}
 {157}{}{Death}
 {158}{}{End Slides}
 {159}{}{Main Menu}
-
 {200}{}{Sfall}
 {201}{}{SCALE-TO: RES.}
 {202}{}{DX-9 MODE}
@@ -68,7 +54,6 @@
 {205}{}{Window}
 {206}{}{GPU Blitting}
 {207}{}{This setting has no effect while in Basic Graphics Mode.}
-
 {250}{}{Ignore PC Scroll Limit}
 {253}{}{Path Finding Range}
 {254}{}{Normal}
@@ -77,9 +62,7 @@
 {257}{}{Fog Visibility}
 {258}{}{Dark}
 {259}{}{Brighter}
-
 {300}{}{PRESS A KEY or ESC to cancel.}
-
 {500}{}{Hi-Res Patch settings.}
 {501}{}{Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen Mode.}
 {502}{}{Setup the Fullscreen Colour output here.}
@@ -106,5 +89,3 @@
 {523}{}{Click below to cycle the in-game interface Side Bar options.}
 {524}{}{Apply any changes and Exit.}
 {525}{}{Exit without saving.}
-
-

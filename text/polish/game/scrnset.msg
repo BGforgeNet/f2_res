@@ -1,11 +1,5 @@
-#
-#
-#
-#
-#
 {0}{}{Ustawienia Gry}
 {1}{}{Ustawienia Ekranu}
-
 {50}{}{Ustawienia Ekranu}
 {51}{}{Niestandardowe}
 {52}{}{Szerokoœæ}
@@ -17,7 +11,6 @@
 {58}{}{True}
 {59}{}{False}
 {60}{}{}
-
 {100}{}{Hi-Res}
 {101}{}{ROZDZIELCZOŒÆ}
 {102}{}{Kolory}
@@ -30,36 +23,29 @@
 {109}{}{Ustaw klawisz przewijania}
 {110}{}{Skalowanie X2}
 {111}{}{Odœwie¿anie}
-
 {130}{}{Klawisz Trybu Okna}
 {131}{}{Wybierz}
 {132}{}{Nazwa}
-
 {140}{}{Tryb grafiki:}
 {141}{}{Podstawowy}
 {142}{}{Tryb Sfall DirectX 9:}
 {143}{}{}
-
 {144}{}{DirectDraw 7}
 {145}{}{}
 {146}{}{}
-
 {147}{}{Direct3D 9}
 {148}{}{Vertex Hardware Processing:}
 {149}{}{Shader Version 2.0:}
-
 {150}{}{Skalowanie elementu}
 {151}{}{Wy³.}
 {152}{}{Dop.}
 {153}{}{Wyp.}
-
 {154}{}{Filmy}
 {155}{}{Obraz}
 {156}{}{Pomoc}
 {157}{}{Œmieræ}
 {158}{}{Zakoñczenie}
 {159}{}{Menu G³ówne}
-
 {200}{}{Sfall}
 {201}{}{SCALE-TO: RES.}
 {202}{}{TRYB DX-9}
@@ -68,7 +54,6 @@
 {205}{}{Okno}
 {206}{}{GPU Blitting}
 {207}{}{To ustawienie nie ma zastosowania w trybie podstawowym.}
-
 {250}{}{Ignoruj limit przewijania}
 {253}{}{Zasiêg szukania drogi}
 {254}{}{Normalny}
@@ -77,9 +62,7 @@
 {257}{}{Widocznoœæ mg³y}
 {258}{}{Ciemny}
 {259}{}{Jasny}
-
 {300}{}{Naciœnij klawisz A lub ESC aby anulowaæ.}
-
 {500}{}{Ustawienia Hi-Res Patch'a}
 {501}{}{Ustawienia rozdzielczoœci ekranu, palety kolorów i odœwie¿ania dla pe³nego ekranu.}
 {502}{}{Ustawienia palety kolorów dla pe³nego ekranu.}
@@ -106,5 +89,3 @@
 {523}{}{Kliknij poni¿ej aby zmieniæ wygl¹da bocznego paska.}
 {524}{}{Zapisz i wyjdŸ.}
 {525}{}{WyjdŸ bez zatwierdzania.}
-
-
