@@ -1,0 +1,15 @@
+text/czech/**      working-tree-encoding=cp1250
+text/french/**     working-tree-encoding=cp1252
+text/german/**     working-tree-encoding=cp1252
+text/hungarian/**  working-tree-encoding=cp1250
+text/italian/**    working-tree-encoding=cp1252
+text/korean/**     working-tree-encoding=cp949
+text/polish/**     working-tree-encoding=cp1250
+text/portuguese/** working-tree-encoding=cp1252
+text/russian/**    working-tree-encoding=cp1251
+text/spanish/**    working-tree-encoding=cp1252
+text/swedish/**    working-tree-encoding=cp1252
+text/schinese/**   working-tree-encoding=cp936
+text/tchinese/**   working-tree-encoding=cp950
+text/ukrainian/**  working-tree-encoding=cp1251
+text/vietnamese/**     working-tree-encoding=cp1258
