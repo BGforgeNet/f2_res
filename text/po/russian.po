@@ -49,7 +49,7 @@ msgstr "Перезагрузка игры для сохранения измен
 
 #: game/scrnset.msg:57
 msgid "Would you like to restart Fallout now?"
-msgstr "Хотите перезагрузить Fallout 2?"
+msgstr "Хотите перезагрузить Fallout?"
 
 #: game/scrnset.msg:58
 msgid "True"
@@ -91,7 +91,7 @@ msgstr "32 бита"
 
 #: game/scrnset.msg:106
 msgid "Change Side-Bar Art"
-msgstr "Графика Игровой Панели"
+msgstr "Графика Боковой Панели"
 
 #: game/scrnset.msg:107
 msgid "Invert List"
@@ -135,11 +135,11 @@ msgstr "Базовый Режим"
 
 #: game/scrnset.msg:142
 msgid "Sfall DirectX 9 Mode:"
-msgstr "Sfall DirectX9:"
+msgstr "Sfall DirectX 9:"
 
 #: game/scrnset.msg:144
 msgid "DirectDraw 7"
-msgstr "Direct Draw 7"
+msgstr "DirectDraw 7"
 
 #: game/scrnset.msg:147
 msgid "Direct3D 9"
@@ -207,7 +207,7 @@ msgstr "Режим DX-9"
 
 #: game/scrnset.msg:203
 msgid "Off"
-msgstr "Вык."
+msgstr "Выкл."
 
 #: game/scrnset.msg:204
 msgid "Fullscreen"
@@ -322,7 +322,7 @@ msgid ""
 "Enable X2 scaling. This will also up the min res to 1280x960. With Window "
 "mode requiring more space for its frame."
 msgstr ""
-"Вкл мастштаб-ние X2. Эта опция увеличит мин-ное разрешение до 1280x960. И в "
+"Вкл масштаб-ние X2. Эта опция увеличит мин-ное разрешение до 1280x960. И в "
 "окне - рамка больше."
 
 #: game/scrnset.msg:511
