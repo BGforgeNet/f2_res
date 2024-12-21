@@ -1,34 +1,34 @@
-{0}{}{Game Preferences}
-{1}{}{Screen Settings}
-{50}{}{Screen Settings}
-{51}{}{Custom}
-{52}{}{Width}
-{53}{}{Height}
-{54}{}{Done}
-{55}{}{Cancel}
-{56}{}{Fallout must restart to apply settings.}
-{57}{}{Would you like to restart Fallout now?}
-{58}{}{True}
-{59}{}{False}
+{0}{}{Préférences de jeu}
+{1}{}{Réglages de l'écran}
+{50}{}{Réglages de l'écran}
+{51}{}{Personnalisé}
+{52}{}{Largeur}
+{53}{}{Hauteur}
+{54}{}{Valider}
+{55}{}{Annuler}
+{56}{}{Fallout doit redémarrer pour appliquer ces paramètres.}
+{57}{}{Voulez-vous redémarrer Fallout maintenant ?}
+{58}{}{Vrai}
+{59}{}{Faux}
 {60}{}{}
-{100}{}{Hi-Res}
+{100}{}{Haute résolution}
 {101}{}{RESOLUTION}
-{102}{}{Colours}
+{102}{}{Couleurs}
 {103}{}{8 Bit}
 {104}{}{16 Bit}
 {105}{}{32 Bit}
-{106}{}{Change Side-Bar Art}
-{107}{}{Invert List}
-{108}{}{Windowed}
-{109}{}{Set Scroll Key}
-{110}{}{Scaling X2}
-{111}{}{Refresh Rate}
+{106}{}{Modifier l'image de la barre latérale}
+{107}{}{Inverser la liste}
+{108}{}{Fenêtré}
+{109}{}{Touche de défilement}
+{110}{}{Mise à l'échelle X2}
+{111}{}{Taux de rafraîchissement}
 {130}{}{Window Key}
 {131}{}{Select}
-{132}{}{Name}
-{140}{}{Graphics Mode:}
-{141}{}{Basic}
-{142}{}{Sfall DirectX 9 Mode:}
+{132}{}{Nom}
+{140}{}{Mode graphique :}
+{141}{}{Basique}
+{142}{}{Mode Sfall DirectX 9 :}
 {143}{}{}
 {144}{}{DirectDraw 7}
 {145}{}{}
@@ -36,44 +36,44 @@
 {147}{}{Direct3D 9}
 {148}{}{Vertex Hardware Processing:}
 {149}{}{Shader Version 2.0:}
-{150}{}{Panel Scaling}
-{151}{}{None}
-{152}{}{Fit}
-{153}{}{Fill}
-{154}{}{Movies}
-{155}{}{Splash}
-{156}{}{Help}
-{157}{}{Death}
-{158}{}{End Slides}
-{159}{}{Main Menu}
+{150}{}{Mise à l'échelle du panneau}
+{151}{}{Aucun}
+{152}{}{Adapter}
+{153}{}{Remplir}
+{154}{}{Films}
+{155}{}{Démarrage}
+{156}{}{Aide}
+{157}{}{Mort}
+{158}{}{Fin}
+{159}{}{Menu}
 {200}{}{Sfall}
 {201}{}{SCALE-TO: RES.}
 {202}{}{DX-9 MODE}
 {203}{}{Off}
-{204}{}{Fullscreen}
-{205}{}{Window}
+{204}{}{Plein écran}
+{205}{}{Fenêtré}
 {206}{}{GPU Blitting}
-{207}{}{This setting has no effect while in Basic Graphics Mode.}
+{207}{}{Ce paramètre n'a aucun effet en mode graphique de base.}
 {250}{}{Ignore PC Scroll Limit}
 {253}{}{Path Finding Range}
 {254}{}{Normal}
 {255}{}{Max}
-{256}{}{Enable Fog Of War}
-{257}{}{Fog Visibility}
-{258}{}{Dark}
-{259}{}{Brighter}
-{300}{}{PRESS A KEY or ESC to cancel.}
-{500}{}{Hi-Res Patch settings.}
-{501}{}{Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen Mode.}
+{256}{}{Autoriser le brouillard de guerre}
+{257}{}{Visibilité du brouillard}
+{258}{}{Sombre}
+{259}{}{Plus lumineux}
+{300}{}{PRESSER LA TOUCHE A ou ESC pour annuler.}
+{500}{}{Paramètres du patch haute résolution.}
+{501}{}{Configurer la résolution de l'écran, le mode couleur et le taux de rafraîchissement pour le mode plein écran.}
 {502}{}{Setup the Fullscreen Colour output here.}
-{503}{}{Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver default setting.}
-{504}{}{Customize the Fullscreen Width by clicking the number box.}
-{505}{}{Customize the Fullscreen Height by clicking the number box.}
-{506}{}{Enable or Disable Window Mode.}
-{507}{}{In Window Mode, this is the key you will hold down when using the mouse to scroll the Game and World maps.}
+{503}{}{Définissez ici le taux de rafraîchissement du plein écran. Réglez cette valeur sur « 0 » pour le réglage par défaut du pilote.}
+{504}{}{Personnalisez la largeur du plein écran en cliquant sur la case numérique.}
+{505}{}{Personnalisez la hauteur du plein écran en cliquant sur la case numérique.}
+{506}{}{Activer ou désactiver le mode fenêtré.}
+{507}{}{En mode fenêtré, c'est la touche que vous devez maintenir enfoncée lorsque vous utilisez la souris pour faire défiler les cartes du jeu et du monde.}
 {508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
-{509}{}{The name of the currently selected key.}
-{510}{}{Enable X2 scaling. This will also up the min res to 1280x960. With Window mode requiring more space for its frame.}
+{509}{}{Le nom de la touche actuellement sélectionnée.}
+{510}{}{Activer la mise à l'échelle X2. Cela augmentera également la résolution minimale à 1280x960. Le mode fenêtre nécessitant plus d'espace pour son cadre.}
 {511}{}{Enable or Disable Fog Of War. For best results this should be enabled before entering a map for the first time.}
 {512}{}{Adjust the light level and the Mouse 'look at' visibility of floors, walls and scenery under the fog.}
 {513}{}{Floors, walls and scenery will always be visible and Mouse "look at" will function normally.}
@@ -88,4 +88,4 @@
 {522}{}{Stretched to fill the screen. Note: A space will remain at the bottom of the screen if subtitles are enabled.}
 {523}{}{Click below to cycle the in-game interface Side Bar options.}
 {524}{}{Apply any changes and Exit.}
-{525}{}{Exit without saving.}
+{525}{}{Quitter sans sauvegarder.}
