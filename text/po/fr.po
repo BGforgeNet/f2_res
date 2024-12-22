@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2024-12-21 23:17+0000\n"
+"PO-Revision-Date: 2024-12-23 18:40+0000\n"
 "Last-Translator: DocteurKain <jeanpeuplus@free.fr>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -114,11 +114,11 @@ msgstr "Taux de rafraîchissement"
 
 #: game/scrnset.msg:130
 msgid "Window Key"
-msgstr ""
+msgstr "Touche Fenêtre"
 
 #: game/scrnset.msg:131
 msgid "Select"
-msgstr ""
+msgstr "Sélection"
 
 #: game/scrnset.msg:132
 msgid "Name"
@@ -146,11 +146,11 @@ msgstr "Direct3D 9"
 
 #: game/scrnset.msg:148
 msgid "Vertex Hardware Processing:"
-msgstr ""
+msgstr "Traitement matériel des Vertex :"
 
 #: game/scrnset.msg:149
 msgid "Shader Version 2.0:"
-msgstr ""
+msgstr "Version des Shaders 2.0 :"
 
 #: game/scrnset.msg:150
 msgid "Panel Scaling"
@@ -202,11 +202,11 @@ msgstr ""
 
 #: game/scrnset.msg:202
 msgid "DX-9 MODE"
-msgstr ""
+msgstr "MODE DX-9"
 
 #: game/scrnset.msg:203
 msgid "Off"
-msgstr ""
+msgstr "Désactivé"
 
 #: game/scrnset.msg:204
 msgid "Fullscreen"
@@ -218,7 +218,7 @@ msgstr "Fenêtré"
 
 #: game/scrnset.msg:206
 msgid "GPU Blitting"
-msgstr ""
+msgstr "Blitting GPU"
 
 #: game/scrnset.msg:207
 msgid "This setting has no effect while in Basic Graphics Mode."
@@ -226,11 +226,11 @@ msgstr "Ce paramètre n'a aucun effet en mode graphique de base."
 
 #: game/scrnset.msg:250
 msgid "Ignore PC Scroll Limit"
-msgstr ""
+msgstr "Ignorer la limite de défilement"
 
 #: game/scrnset.msg:253
 msgid "Path Finding Range"
-msgstr ""
+msgstr "Plage du Path Finding"
 
 #: game/scrnset.msg:254
 msgid "Normal"
@@ -274,7 +274,7 @@ msgstr ""
 
 #: game/scrnset.msg:502
 msgid "Setup the Fullscreen Colour output here."
-msgstr ""
+msgstr "Configurer ici la sortie couleur plein écran."
 
 #: game/scrnset.msg:503
 msgid ""
@@ -330,6 +330,9 @@ msgid ""
 "Enable or Disable Fog Of War. For best results this should be enabled before"
 " entering a map for the first time."
 msgstr ""
+"Activer ou désactiver le brouillard de guerre. Pour obtenir les meilleurs "
+"résultats, il convient de l'activer avant d'entrer sur une carte pour la "
+"première fois."
 
 #: game/scrnset.msg:512
 msgid ""
