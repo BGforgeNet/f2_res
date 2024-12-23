@@ -23,8 +23,8 @@
 {109}{}{Touche de défilement}
 {110}{}{Mise à l'échelle X2}
 {111}{}{Taux de rafraîchissement}
-{130}{}{Window Key}
-{131}{}{Select}
+{130}{}{Touche Fenêtre}
+{131}{}{Sélection}
 {132}{}{Nom}
 {140}{}{Mode graphique :}
 {141}{}{Basique}
@@ -34,8 +34,8 @@
 {145}{}{}
 {146}{}{}
 {147}{}{Direct3D 9}
-{148}{}{Vertex Hardware Processing:}
-{149}{}{Shader Version 2.0:}
+{148}{}{Traitement matériel des Vertex :}
+{149}{}{Version des Shaders 2.0 :}
 {150}{}{Mise à l'échelle du panneau}
 {151}{}{Aucun}
 {152}{}{Adapter}
@@ -48,14 +48,14 @@
 {159}{}{Menu}
 {200}{}{Sfall}
 {201}{}{SCALE-TO: RES.}
-{202}{}{DX-9 MODE}
-{203}{}{Off}
+{202}{}{MODE DX-9}
+{203}{}{Désactivé}
 {204}{}{Plein écran}
 {205}{}{Fenêtré}
-{206}{}{GPU Blitting}
+{206}{}{Blitting GPU}
 {207}{}{Ce paramètre n'a aucun effet en mode graphique de base.}
-{250}{}{Ignore PC Scroll Limit}
-{253}{}{Path Finding Range}
+{250}{}{Ignorer la limite de défilement}
+{253}{}{Plage du Path Finding}
 {254}{}{Normal}
 {255}{}{Max}
 {256}{}{Autoriser le brouillard de guerre}
@@ -65,7 +65,7 @@
 {300}{}{PRESSER LA TOUCHE A ou ESC pour annuler.}
 {500}{}{Paramètres du patch haute résolution.}
 {501}{}{Configurer la résolution de l'écran, le mode couleur et le taux de rafraîchissement pour le mode plein écran.}
-{502}{}{Setup the Fullscreen Colour output here.}
+{502}{}{Configurer ici la sortie couleur plein écran.}
 {503}{}{Définissez ici le taux de rafraîchissement du plein écran. Réglez cette valeur sur « 0 » pour le réglage par défaut du pilote.}
 {504}{}{Personnalisez la largeur du plein écran en cliquant sur la case numérique.}
 {505}{}{Personnalisez la hauteur du plein écran en cliquant sur la case numérique.}
@@ -74,7 +74,7 @@
 {508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
 {509}{}{Le nom de la touche actuellement sélectionnée.}
 {510}{}{Activer la mise à l'échelle X2. Cela augmentera également la résolution minimale à 1280x960. Le mode fenêtre nécessitant plus d'espace pour son cadre.}
-{511}{}{Enable or Disable Fog Of War. For best results this should be enabled before entering a map for the first time.}
+{511}{}{Activer ou désactiver le brouillard de guerre. Pour obtenir les meilleurs résultats, il convient de l'activer avant d'entrer sur une carte pour la première fois.}
 {512}{}{Adjust the light level and the Mouse 'look at' visibility of floors, walls and scenery under the fog.}
 {513}{}{Floors, walls and scenery will always be visible and Mouse "look at" will function normally.}
 {514}{}{Floors, walls and scenery will be darkened and unresponsive to Mouse "look at" until discovered.}
