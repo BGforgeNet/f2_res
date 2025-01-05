@@ -4,389 +4,421 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-01-06 11:40+0000\n"
+"Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: BGforge/msg2po v.1.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: game/scrnset.msg:0
 msgid "Game Preferences"
-msgstr ""
+msgstr "Spelinställningar"
 
 #: game/scrnset.msg:1 game/scrnset.msg:50
 msgid "Screen Settings"
-msgstr ""
+msgstr "Skärminställningar"
 
 #: game/scrnset.msg:51
 msgid "Custom"
-msgstr ""
+msgstr "Anpassad"
 
 #: game/scrnset.msg:52
 msgid "Width"
-msgstr ""
+msgstr "Bredd"
 
 #: game/scrnset.msg:53
 msgid "Height"
-msgstr ""
+msgstr "Höjd"
 
 #: game/scrnset.msg:54
 msgid "Done"
-msgstr ""
+msgstr "Klar"
 
 #: game/scrnset.msg:55
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: game/scrnset.msg:56
 msgid "Fallout must restart to apply settings."
-msgstr ""
+msgstr "Fallout måste starta om för att tillämpa inställningarna."
 
 #: game/scrnset.msg:57
 msgid "Would you like to restart Fallout now?"
-msgstr ""
+msgstr "Vill du starta om Fallout nu?"
 
 #: game/scrnset.msg:58
 msgid "True"
-msgstr ""
+msgstr "Sant"
 
 #: game/scrnset.msg:59
 msgid "False"
-msgstr ""
+msgstr "Falskt"
 
 #. LEAVE empty space in translation
 #: game/scrnset.msg:60 game/scrnset.msg:143 game/scrnset.msg:145
 #: game/scrnset.msg:146
 msgid " "
-msgstr ""
+msgstr " "
 
 #: game/scrnset.msg:100
 msgid "Hi-Res"
-msgstr ""
+msgstr "Hög upplösning"
 
 #: game/scrnset.msg:101
 msgid "RESOLUTION"
-msgstr ""
+msgstr "UPPLÖSNING"
 
 #: game/scrnset.msg:102
 msgid "Colours"
-msgstr ""
+msgstr "Färger"
 
 #: game/scrnset.msg:103
 msgid "8 Bit"
-msgstr ""
+msgstr "8 bitar"
 
 #: game/scrnset.msg:104
 msgid "16 Bit"
-msgstr ""
+msgstr "16 bitar"
 
 #: game/scrnset.msg:105
 msgid "32 Bit"
-msgstr ""
+msgstr "32 bitar"
 
 #: game/scrnset.msg:106
 msgid "Change Side-Bar Art"
-msgstr ""
+msgstr "Ändra sidofältskonst"
 
 #: game/scrnset.msg:107
 msgid "Invert List"
-msgstr ""
+msgstr "Invertera lista"
 
 #: game/scrnset.msg:108
 msgid "Windowed"
-msgstr ""
+msgstr "fönsterläge"
 
 #: game/scrnset.msg:109
 msgid "Set Scroll Key"
-msgstr ""
+msgstr "Ställ in bläddringsknapp"
 
 #: game/scrnset.msg:110
 msgid "Scaling X2"
-msgstr ""
+msgstr "Skalning X2"
 
 #: game/scrnset.msg:111
 msgid "Refresh Rate"
-msgstr ""
+msgstr "Uppdateringsfrekvens"
 
 #: game/scrnset.msg:130
 msgid "Window Key"
-msgstr ""
+msgstr "Fönstertangent"
 
 #: game/scrnset.msg:131
 msgid "Select"
-msgstr ""
+msgstr "Välj"
 
 #: game/scrnset.msg:132
 msgid "Name"
-msgstr ""
+msgstr "Namn"
 
 #: game/scrnset.msg:140
 msgid "Graphics Mode:"
-msgstr ""
+msgstr "Grafikläge:"
 
 #: game/scrnset.msg:141
 msgid "Basic"
-msgstr ""
+msgstr "Grundläggande"
 
 #: game/scrnset.msg:142
 msgid "Sfall DirectX 9 Mode:"
-msgstr ""
+msgstr "Sfall DirectX 9-läge:"
 
 #: game/scrnset.msg:144
 msgid "DirectDraw 7"
-msgstr ""
+msgstr "DirectDraw 7"
 
 #: game/scrnset.msg:147
 msgid "Direct3D 9"
-msgstr ""
+msgstr "Direct3D 9"
 
 #: game/scrnset.msg:148
 msgid "Vertex Hardware Processing:"
-msgstr ""
+msgstr "Vertex hårdvarubearbetning:"
 
 #: game/scrnset.msg:149
 msgid "Shader Version 2.0:"
-msgstr ""
+msgstr "Shader version 2.0:"
 
 #: game/scrnset.msg:150
 msgid "Panel Scaling"
-msgstr ""
+msgstr "Panelskalning"
 
 #: game/scrnset.msg:151
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 #: game/scrnset.msg:152
 msgid "Fit"
-msgstr ""
+msgstr "Passa"
 
 #: game/scrnset.msg:153
 msgid "Fill"
-msgstr ""
+msgstr "Fyll"
 
 #: game/scrnset.msg:154
 msgid "Movies"
-msgstr ""
+msgstr "Filmer"
 
 #: game/scrnset.msg:155
 msgid "Splash"
-msgstr ""
+msgstr "Stänk"
 
 #: game/scrnset.msg:156
 msgid "Help"
-msgstr ""
+msgstr "Hjälp"
 
 #: game/scrnset.msg:157
 msgid "Death"
-msgstr ""
+msgstr "Död"
 
 #: game/scrnset.msg:158
 msgid "End Slides"
-msgstr ""
+msgstr "Avslutningsbilder"
 
 #: game/scrnset.msg:159
 msgid "Main Menu"
-msgstr ""
+msgstr "Huvudmeny"
 
 #: game/scrnset.msg:200
 msgid "Sfall"
-msgstr ""
+msgstr "Sfall"
 
 #: game/scrnset.msg:201
 msgid "SCALE-TO: RES."
-msgstr ""
+msgstr "SKALA-TILL: UPPLÖS."
 
 #: game/scrnset.msg:202
 msgid "DX-9 MODE"
-msgstr ""
+msgstr "DX-9-LÄGE"
 
 #: game/scrnset.msg:203
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 #: game/scrnset.msg:204
 msgid "Fullscreen"
-msgstr ""
+msgstr "Fullskärm"
 
 #: game/scrnset.msg:205
 msgid "Window"
-msgstr ""
+msgstr "Fönster"
 
 #: game/scrnset.msg:206
 msgid "GPU Blitting"
-msgstr ""
+msgstr "GPU-Blittning"
 
 #: game/scrnset.msg:207
 msgid "This setting has no effect while in Basic Graphics Mode."
 msgstr ""
+"Denna inställning har ingen effekt när du är i Grundläggande grafik-läge."
 
 #: game/scrnset.msg:250
 msgid "Ignore PC Scroll Limit"
-msgstr ""
+msgstr "Ignorera PC:ns skrollgräns"
 
 #: game/scrnset.msg:253
 msgid "Path Finding Range"
-msgstr ""
+msgstr "Sökintervallsavstånd"
 
 #: game/scrnset.msg:254
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: game/scrnset.msg:255
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: game/scrnset.msg:256
 msgid "Enable Fog Of War"
-msgstr ""
+msgstr "Aktivera krigsdimma"
 
 #: game/scrnset.msg:257
 msgid "Fog Visibility"
-msgstr ""
+msgstr "Sikt i dimma"
 
 #: game/scrnset.msg:258
 msgid "Dark"
-msgstr ""
+msgstr "Mörk"
 
 #: game/scrnset.msg:259
 msgid "Brighter"
-msgstr ""
+msgstr "Ljusare"
 
 #: game/scrnset.msg:300
 msgid "PRESS A KEY or ESC to cancel."
-msgstr ""
+msgstr "TRYCK PÅ EN TANGENT eller ESC för att avbryta."
 
 #: game/scrnset.msg:500
 msgid "Hi-Res Patch settings."
-msgstr ""
+msgstr "Inställningar för Hi-Res Patch."
 
 #: game/scrnset.msg:501
 msgid ""
 "Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen "
 "Mode."
 msgstr ""
+"Ställ in skärmupplösning, färgläge och uppdateringsfrekvens för "
+"fullskärmsläge."
 
 #: game/scrnset.msg:502
 msgid "Setup the Fullscreen Colour output here."
-msgstr ""
+msgstr "Ställ in helskärmens färgutmatning här."
 
 #: game/scrnset.msg:503
 msgid ""
 "Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver "
 "default setting."
 msgstr ""
+"Ställ in uppdateringsfrekvensen i helskärmsläge här. Ställ in detta till '0' "
+"för standardinställningen för drivrutinen."
 
 #: game/scrnset.msg:504
 msgid "Customize the Fullscreen Width by clicking the number box."
-msgstr ""
+msgstr "Anpassa fullskärmsbredden genom att klicka på nummerrutan."
 
 #: game/scrnset.msg:505
 msgid "Customize the Fullscreen Height by clicking the number box."
-msgstr ""
+msgstr "Anpassa fullskärmshöjden genom att klicka på nummerrutan."
 
 #: game/scrnset.msg:506
 msgid "Enable or Disable Window Mode."
-msgstr ""
+msgstr "Aktivera eller inaktivera fönsterläge."
 
 #: game/scrnset.msg:507
 msgid ""
 "In Window Mode, this is the key you will hold down when using the mouse to "
 "scroll the Game and World maps."
 msgstr ""
+"I fönsterläge är detta tangenten som du håller nedtryckt när du använder "
+"musen för att bläddra i spel- och världskartorna."
 
 #: game/scrnset.msg:508
 msgid ""
 "Press the red button to select a different key. Or click the number box to "
 "edit the Windows Virtual key code."
 msgstr ""
+"Tryck på den röda knappen för att välja en annan tangent. Eller klicka på "
+"nummerrutan för att redigera koden för Windows Virtual Key."
 
 #: game/scrnset.msg:509
 msgid "The name of the currently selected key."
-msgstr ""
+msgstr "Namnet på den valda tangenten."
 
 #: game/scrnset.msg:510
 msgid ""
 "Enable X2 scaling. This will also up the min res to 1280x960. With Window "
 "mode requiring more space for its frame."
 msgstr ""
+"Aktivera X2-skalning. Detta kommer också att öka minsta upplösningen till "
+"1280x960. Fönsterläge kräver mer utrymme för sin ram."
 
 #: game/scrnset.msg:511
 msgid ""
 "Enable or Disable Fog Of War. For best results this should be enabled before"
 " entering a map for the first time."
 msgstr ""
+"Aktivera eller inaktivera krigsdimma. För bästa resultat bör detta aktiveras "
+"innan du går in på en karta för första gången."
 
 #: game/scrnset.msg:512
 msgid ""
 "Adjust the light level and the Mouse 'look at' visibility of floors, walls "
 "and scenery under the fog."
 msgstr ""
+"Justera ljusnivån och musens 'titta på' synlighet för golv, väggar och "
+"landskap under dimman."
 
 #: game/scrnset.msg:513
 msgid ""
 "Floors, walls and scenery will always be visible and Mouse \"look at\" will "
 "function normally."
 msgstr ""
+"Golv, väggar och dekor kommer alltid att vara synliga och musens \"titta på\""
+" kommer att fungera normalt."
 
 #: game/scrnset.msg:514
 msgid ""
 "Floors, walls and scenery will be darkened and unresponsive to Mouse \"look "
 "at\" until discovered."
 msgstr ""
+"Golv, väggar och dekor kommer att vara mörka och inte svara på musens \"titta"
+" på\" tills de upptäcks."
 
 #: game/scrnset.msg:515
 msgid ""
 "When enabled, scrolling away from the Player Character is unlimited. This "
 "works well if Fog Of War enabled."
 msgstr ""
+"När detta är aktiverat kan man obegränsat skrolla bort från "
+"spelarkaraktären. Detta fungerar bra om krigsdimma är aktiverat."
 
 #: game/scrnset.msg:516
 msgid ""
 "Increase the number of search nodes to extend the path finding distance. 20 "
 "levels in 2000 node increments."
 msgstr ""
+"Öka antalet söknoder för att förlänga sökavståndet. 20 nivåer i steg om 2000 "
+"noder."
 
 #: game/scrnset.msg:517
 msgid ""
 "2000 path search nodes (original value). Note: Each level requires an "
 "additional 156.25 KB of memory."
 msgstr ""
+"2000 noder för sökvägar (originalvärde). Obs: Varje nivå kräver ytterligare "
+"156,25 KB minne."
 
 #: game/scrnset.msg:518
 msgid ""
 "40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory."
-msgstr ""
+msgstr "40 000 noder för sökvägar. Obs: kräver 3200000 byte (3125 KB) minne."
 
 #: game/scrnset.msg:519
 msgid "Adjust how certain screens are displayed."
-msgstr ""
+msgstr "Justera hur vissa skärmar ska visas."
 
 #: game/scrnset.msg:520
 msgid "Original size."
-msgstr ""
+msgstr "Originalstorlek."
 
 #: game/scrnset.msg:521
 msgid ""
 "Stretched to fit the size of the screen while maintaining the original "
 "aspect ratio."
 msgstr ""
+"Utsträckt för att passa skärmens storlek samtidigt som det ursprungliga "
+"bildförhållandet bibehålls."
 
 #: game/scrnset.msg:522
 msgid ""
 "Stretched to fill the screen. Note: A space will remain at the bottom of the"
 " screen if subtitles are enabled."
 msgstr ""
+"Utsträckt för att fylla skärmen. Obs: Ett utrymme kommer att finnas kvar "
+"längst ner på skärmen om undertexter är aktiverade."
 
 #: game/scrnset.msg:523
 msgid "Click below to cycle the in-game interface Side Bar options."
 msgstr ""
+"Klicka nedan för att cykla i gränssnittet i spelets Side Bar-alternativ."
 
 #: game/scrnset.msg:524
 msgid "Apply any changes and Exit."
-msgstr ""
+msgstr "Verkställ eventuella ändringar och avsluta."
 
 #: game/scrnset.msg:525
 msgid "Exit without saving."
-msgstr ""
+msgstr "Avsluta utan att spara."
