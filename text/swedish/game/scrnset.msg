@@ -1,91 +1,91 @@
-{0}{}{Game Preferences}
-{1}{}{Screen Settings}
-{50}{}{Screen Settings}
-{51}{}{Custom}
-{52}{}{Width}
-{53}{}{Height}
-{54}{}{Done}
-{55}{}{Cancel}
-{56}{}{Fallout must restart to apply settings.}
-{57}{}{Would you like to restart Fallout now?}
-{58}{}{True}
-{59}{}{False}
+{0}{}{Spelinställningar}
+{1}{}{Skärminställningar}
+{50}{}{Skärminställningar}
+{51}{}{Anpassad}
+{52}{}{Bredd}
+{53}{}{Höjd}
+{54}{}{Klar}
+{55}{}{Avbryt}
+{56}{}{Fallout måste starta om för att tillämpa inställningarna.}
+{57}{}{Vill du starta om Fallout nu?}
+{58}{}{Sant}
+{59}{}{Falskt}
 {60}{}{}
-{100}{}{Hi-Res}
-{101}{}{RESOLUTION}
-{102}{}{Colours}
-{103}{}{8 Bit}
-{104}{}{16 Bit}
-{105}{}{32 Bit}
-{106}{}{Change Side-Bar Art}
-{107}{}{Invert List}
-{108}{}{Windowed}
-{109}{}{Set Scroll Key}
-{110}{}{Scaling X2}
-{111}{}{Refresh Rate}
-{130}{}{Window Key}
-{131}{}{Select}
-{132}{}{Name}
-{140}{}{Graphics Mode:}
-{141}{}{Basic}
-{142}{}{Sfall DirectX 9 Mode:}
+{100}{}{Hög upplösning}
+{101}{}{UPPLÖSNING}
+{102}{}{Färger}
+{103}{}{8 bitar}
+{104}{}{16 bitar}
+{105}{}{32 bitar}
+{106}{}{Ändra sidofältskonst}
+{107}{}{Invertera lista}
+{108}{}{fönsterläge}
+{109}{}{Ställ in bläddringsknapp}
+{110}{}{Skalning X2}
+{111}{}{Uppdateringsfrekvens}
+{130}{}{Fönstertangent}
+{131}{}{Välj}
+{132}{}{Namn}
+{140}{}{Grafikläge:}
+{141}{}{Grundläggande}
+{142}{}{Sfall DirectX 9-läge:}
 {143}{}{}
 {144}{}{DirectDraw 7}
 {145}{}{}
 {146}{}{}
 {147}{}{Direct3D 9}
-{148}{}{Vertex Hardware Processing:}
-{149}{}{Shader Version 2.0:}
-{150}{}{Panel Scaling}
-{151}{}{None}
-{152}{}{Fit}
-{153}{}{Fill}
-{154}{}{Movies}
-{155}{}{Splash}
-{156}{}{Help}
-{157}{}{Death}
-{158}{}{End Slides}
-{159}{}{Main Menu}
+{148}{}{Vertex hårdvarubearbetning:}
+{149}{}{Shader version 2.0:}
+{150}{}{Panelskalning}
+{151}{}{Ingen}
+{152}{}{Passa}
+{153}{}{Fyll}
+{154}{}{Filmer}
+{155}{}{Stänk}
+{156}{}{Hjälp}
+{157}{}{Död}
+{158}{}{Avslutningsbilder}
+{159}{}{Huvudmeny}
 {200}{}{Sfall}
-{201}{}{SCALE-TO: RES.}
-{202}{}{DX-9 MODE}
-{203}{}{Off}
-{204}{}{Fullscreen}
-{205}{}{Window}
-{206}{}{GPU Blitting}
-{207}{}{This setting has no effect while in Basic Graphics Mode.}
-{250}{}{Ignore PC Scroll Limit}
-{253}{}{Path Finding Range}
+{201}{}{SKALA-TILL: UPPLÖS.}
+{202}{}{DX-9-LÄGE}
+{203}{}{Av}
+{204}{}{Fullskärm}
+{205}{}{Fönster}
+{206}{}{GPU-Blittning}
+{207}{}{Denna inställning har ingen effekt när du är i Grundläggande grafik-läge.}
+{250}{}{Ignorera PC:ns skrollgräns}
+{253}{}{Sökintervallsavstånd}
 {254}{}{Normal}
 {255}{}{Max}
-{256}{}{Enable Fog Of War}
-{257}{}{Fog Visibility}
-{258}{}{Dark}
-{259}{}{Brighter}
-{300}{}{PRESS A KEY or ESC to cancel.}
-{500}{}{Hi-Res Patch settings.}
-{501}{}{Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen Mode.}
-{502}{}{Setup the Fullscreen Colour output here.}
-{503}{}{Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver default setting.}
-{504}{}{Customize the Fullscreen Width by clicking the number box.}
-{505}{}{Customize the Fullscreen Height by clicking the number box.}
-{506}{}{Enable or Disable Window Mode.}
-{507}{}{In Window Mode, this is the key you will hold down when using the mouse to scroll the Game and World maps.}
-{508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
-{509}{}{The name of the currently selected key.}
-{510}{}{Enable X2 scaling. This will also up the min res to 1280x960. With Window mode requiring more space for its frame.}
-{511}{}{Enable or Disable Fog Of War. For best results this should be enabled before entering a map for the first time.}
-{512}{}{Adjust the light level and the Mouse 'look at' visibility of floors, walls and scenery under the fog.}
-{513}{}{Floors, walls and scenery will always be visible and Mouse "look at" will function normally.}
-{514}{}{Floors, walls and scenery will be darkened and unresponsive to Mouse "look at" until discovered.}
-{515}{}{When enabled, scrolling away from the Player Character is unlimited. This works well if Fog Of War enabled.}
-{516}{}{Increase the number of search nodes to extend the path finding distance. 20 levels in 2000 node increments.}
-{517}{}{2000 path search nodes (original value). Note: Each level requires an additional 156.25 KB of memory.}
-{518}{}{40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory.}
-{519}{}{Adjust how certain screens are displayed.}
-{520}{}{Original size.}
-{521}{}{Stretched to fit the size of the screen while maintaining the original aspect ratio.}
-{522}{}{Stretched to fill the screen. Note: A space will remain at the bottom of the screen if subtitles are enabled.}
-{523}{}{Click below to cycle the in-game interface Side Bar options.}
-{524}{}{Apply any changes and Exit.}
-{525}{}{Exit without saving.}
+{256}{}{Aktivera krigsdimma}
+{257}{}{Sikt i dimma}
+{258}{}{Mörk}
+{259}{}{Ljusare}
+{300}{}{TRYCK PÅ EN TANGENT eller ESC för att avbryta.}
+{500}{}{Inställningar för Hi-Res Patch.}
+{501}{}{Ställ in skärmupplösning, färgläge och uppdateringsfrekvens för fullskärmsläge.}
+{502}{}{Ställ in helskärmens färgutmatning här.}
+{503}{}{Ställ in uppdateringsfrekvensen i helskärmsläge här. Ställ in detta till '0' för standardinställningen för drivrutinen.}
+{504}{}{Anpassa fullskärmsbredden genom att klicka på nummerrutan.}
+{505}{}{Anpassa fullskärmshöjden genom att klicka på nummerrutan.}
+{506}{}{Aktivera eller inaktivera fönsterläge.}
+{507}{}{I fönsterläge är detta tangenten som du håller nedtryckt när du använder musen för att bläddra i spel- och världskartorna.}
+{508}{}{Tryck på den röda knappen för att välja en annan tangent. Eller klicka på nummerrutan för att redigera koden för Windows Virtual Key.}
+{509}{}{Namnet på den valda tangenten.}
+{510}{}{Aktivera X2-skalning. Detta kommer också att öka minsta upplösningen till 1280x960. Fönsterläge kräver mer utrymme för sin ram.}
+{511}{}{Aktivera eller inaktivera krigsdimma. För bästa resultat bör detta aktiveras innan du går in på en karta för första gången.}
+{512}{}{Justera ljusnivån och musens 'titta på' synlighet för golv, väggar och landskap under dimman.}
+{513}{}{Golv, väggar och dekor kommer alltid att vara synliga och musens "titta på" kommer att fungera normalt.}
+{514}{}{Golv, väggar och dekor kommer att vara mörka och inte svara på musens "titta på" tills de upptäcks.}
+{515}{}{När detta är aktiverat kan man obegränsat skrolla bort från spelarkaraktären. Detta fungerar bra om krigsdimma är aktiverat.}
+{516}{}{Öka antalet söknoder för att förlänga sökavståndet. 20 nivåer i steg om 2000 noder.}
+{517}{}{2000 noder för sökvägar (originalvärde). Obs: Varje nivå kräver ytterligare 156,25 KB minne.}
+{518}{}{40 000 noder för sökvägar. Obs: kräver 3200000 byte (3125 KB) minne.}
+{519}{}{Justera hur vissa skärmar ska visas.}
+{520}{}{Originalstorlek.}
+{521}{}{Utsträckt för att passa skärmens storlek samtidigt som det ursprungliga bildförhållandet bibehålls.}
+{522}{}{Utsträckt för att fylla skärmen. Obs: Ett utrymme kommer att finnas kvar längst ner på skärmen om undertexter är aktiverade.}
+{523}{}{Klicka nedan för att cykla i gränssnittet i spelets Side Bar-alternativ.}
+{524}{}{Verkställ eventuella ändringar och avsluta.}
+{525}{}{Avsluta utan att spara.}
