@@ -1,51 +1,51 @@
-{0}{}{Game Preferences}
-{1}{}{Screen Settings}
-{50}{}{Screen Settings}
-{51}{}{Custom}
-{52}{}{Width}
-{53}{}{Height}
-{54}{}{Done}
-{55}{}{Cancel}
-{56}{}{Fallout must restart to apply settings.}
-{57}{}{Would you like to restart Fallout now?}
-{58}{}{True}
-{59}{}{False}
+{0}{}{Preferenze di Gioco}
+{1}{}{Impostazioni Schermo}
+{50}{}{Impostazioni Schermo}
+{51}{}{Personalizzato}
+{52}{}{Larghezza}
+{53}{}{Altezza}
+{54}{}{Fatto}
+{55}{}{Annulla}
+{56}{}{Fallout deve essere riavviato per applicare le impostazioni.}
+{57}{}{Vuoi riavviare ora Fallout?}
+{58}{}{Vero}
+{59}{}{Falso}
 {60}{}{}
-{100}{}{Hi-Res}
-{101}{}{RESOLUTION}
-{102}{}{Colours}
+{100}{}{Alta-Risoluzione}
+{101}{}{RISOLUZIONE}
+{102}{}{Colori}
 {103}{}{8 Bit}
 {104}{}{16 Bit}
 {105}{}{32 Bit}
-{106}{}{Change Side-Bar Art}
-{107}{}{Invert List}
-{108}{}{Windowed}
+{106}{}{Cambia immagine inferiore}
+{107}{}{Inverti Lista}
+{108}{}{Finestra}
 {109}{}{Set Scroll Key}
-{110}{}{Scaling X2}
-{111}{}{Refresh Rate}
+{110}{}{Ingrandisci X2}
+{111}{}{Frequenza di Aggiornamento}
 {130}{}{Window Key}
-{131}{}{Select}
-{132}{}{Name}
-{140}{}{Graphics Mode:}
-{141}{}{Basic}
-{142}{}{Sfall DirectX 9 Mode:}
+{131}{}{Seleziona}
+{132}{}{Nome}
+{140}{}{Modalità Grafica:}
+{141}{}{Basica}
+{142}{}{Modalità Sfall DirectX 9:}
 {143}{}{}
 {144}{}{DirectDraw 7}
 {145}{}{}
 {146}{}{}
 {147}{}{Direct3D 9}
-{148}{}{Vertex Hardware Processing:}
-{149}{}{Shader Version 2.0:}
-{150}{}{Panel Scaling}
-{151}{}{None}
-{152}{}{Fit}
-{153}{}{Fill}
-{154}{}{Movies}
-{155}{}{Splash}
-{156}{}{Help}
-{157}{}{Death}
-{158}{}{End Slides}
-{159}{}{Main Menu}
+{148}{}{Processione Vertex Hardware:}
+{149}{}{Shader Versione 2.0:}
+{150}{}{Scala Pannello}
+{151}{}{Nessuno}
+{152}{}{Riempi}
+{153}{}{Riempi}
+{154}{}{Filmati}
+{155}{}{Schermata Iniziale}
+{156}{}{Aiuto}
+{157}{}{Morte}
+{158}{}{Slides Finali}
+{159}{}{Menu Principale}
 {200}{}{Sfall}
 {201}{}{SCALE-TO: RES.}
 {202}{}{DX-9 MODE}
