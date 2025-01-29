@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2025-01-25 18:40+0000\n"
+"PO-Revision-Date: 2025-01-30 11:40+0000\n"
 "Last-Translator: McNelly <valeriobuzi87@gmail.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -62,7 +62,7 @@ msgstr "Falso"
 #: game/scrnset.msg:60 game/scrnset.msg:143 game/scrnset.msg:145
 #: game/scrnset.msg:146
 msgid " "
-msgstr ""
+msgstr " "
 
 #: game/scrnset.msg:100
 msgid "Hi-Res"
@@ -102,7 +102,7 @@ msgstr "Finestra"
 
 #: game/scrnset.msg:109
 msgid "Set Scroll Key"
-msgstr ""
+msgstr "Imposta tasto Blocco scorrimento"
 
 #: game/scrnset.msg:110
 msgid "Scaling X2"
@@ -114,7 +114,7 @@ msgstr "Frequenza di Aggiornamento"
 
 #: game/scrnset.msg:130
 msgid "Window Key"
-msgstr ""
+msgstr "Tasto Window"
 
 #: game/scrnset.msg:131
 msgid "Select"
@@ -126,7 +126,7 @@ msgstr "Nome"
 
 #: game/scrnset.msg:140
 msgid "Graphics Mode:"
-msgstr "Modalità Grafica:"
+msgstr "Modalita' Grafica:"
 
 #: game/scrnset.msg:141
 msgid "Basic"
@@ -134,7 +134,7 @@ msgstr "Basica"
 
 #: game/scrnset.msg:142
 msgid "Sfall DirectX 9 Mode:"
-msgstr "Modalità Sfall DirectX 9:"
+msgstr "Modalita' Sfall DirectX 9:"
 
 #: game/scrnset.msg:144
 msgid "DirectDraw 7"
@@ -198,105 +198,114 @@ msgstr "Sfall"
 
 #: game/scrnset.msg:201
 msgid "SCALE-TO: RES."
-msgstr ""
+msgstr "SCALA ALLA : RIS."
 
 #: game/scrnset.msg:202
 msgid "DX-9 MODE"
-msgstr ""
+msgstr "MOD. DX-9"
 
 #: game/scrnset.msg:203
 msgid "Off"
-msgstr ""
+msgstr "Spento"
 
 #: game/scrnset.msg:204
 msgid "Fullscreen"
-msgstr ""
+msgstr "Pieno Schermo"
 
 #: game/scrnset.msg:205
 msgid "Window"
-msgstr ""
+msgstr "Finestra"
 
 #: game/scrnset.msg:206
 msgid "GPU Blitting"
-msgstr ""
+msgstr "GPU Blitting"
 
 #: game/scrnset.msg:207
 msgid "This setting has no effect while in Basic Graphics Mode."
-msgstr ""
+msgstr "Questa impostazioni non ha effetto quando si e' in modalita' Base."
 
 #: game/scrnset.msg:250
 msgid "Ignore PC Scroll Limit"
-msgstr ""
+msgstr "Ignora Limite di Scorrimento"
 
 #: game/scrnset.msg:253
 msgid "Path Finding Range"
-msgstr ""
+msgstr "Distanza Percorribile"
 
 #: game/scrnset.msg:254
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 #: game/scrnset.msg:255
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: game/scrnset.msg:256
 msgid "Enable Fog Of War"
-msgstr ""
+msgstr "Abilita Nebbia di Guerra"
 
 #: game/scrnset.msg:257
 msgid "Fog Visibility"
-msgstr ""
+msgstr "Visibilita' nebbia"
 
 #: game/scrnset.msg:258
 msgid "Dark"
-msgstr ""
+msgstr "Coperto"
 
 #: game/scrnset.msg:259
 msgid "Brighter"
-msgstr ""
+msgstr "Scoperto"
 
 #: game/scrnset.msg:300
 msgid "PRESS A KEY or ESC to cancel."
-msgstr ""
+msgstr "PREMI UN TASTO o ESC per annullare."
 
 #: game/scrnset.msg:500
 msgid "Hi-Res Patch settings."
-msgstr ""
+msgstr "Impostazioni Hi-Res."
 
 #: game/scrnset.msg:501
 msgid ""
 "Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen "
 "Mode."
 msgstr ""
+"Imposta la Risoluzione dello schermo, Colore e frequenza di aggiornamento "
+"per lo Schermo Intero."
 
 #: game/scrnset.msg:502
 msgid "Setup the Fullscreen Colour output here."
-msgstr ""
+msgstr "Imposta il Colore a Schermo Intero."
 
 #: game/scrnset.msg:503
 msgid ""
 "Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver "
 "default setting."
 msgstr ""
+"Imposta la Frequenza di Aggiornamento. Imposta '0' per usare le impostazioni "
+"predefinite del driver."
 
 #: game/scrnset.msg:504
 msgid "Customize the Fullscreen Width by clicking the number box."
 msgstr ""
+"Personalizza la Larghezza a Pieno Schermo cliccando nella casella "
+"sottostante."
 
 #: game/scrnset.msg:505
 msgid "Customize the Fullscreen Height by clicking the number box."
 msgstr ""
+"Personalizza la Altezza a Pieno Schermo cliccando nella casella sottostante."
 
 #: game/scrnset.msg:506
 msgid "Enable or Disable Window Mode."
-msgstr ""
+msgstr "Abilita o Disabilita la modalita' a Finestra."
 
 #: game/scrnset.msg:507
 msgid ""
 "In Window Mode, this is the key you will hold down when using the mouse to "
 "scroll the Game and World maps."
 msgstr ""
+"In modalita' Finestra, questo e' il tasto che dovrai tenere premuto per "
+"scorrere le schermante del Gioco e della Mappa."
 
 #: game/scrnset.msg:508
 msgid ""
@@ -360,35 +369,38 @@ msgstr ""
 msgid ""
 "40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory."
 msgstr ""
+"40 000 nodi di ricerca. Nota: richiede 3200000 bytes (3125 KB) di memoria."
 
 #: game/scrnset.msg:519
 msgid "Adjust how certain screens are displayed."
-msgstr ""
+msgstr "Imposta come certe schermate si visualizzino."
 
 #: game/scrnset.msg:520
 msgid "Original size."
-msgstr ""
+msgstr "Dimensione originale."
 
 #: game/scrnset.msg:521
 msgid ""
 "Stretched to fit the size of the screen while maintaining the original "
 "aspect ratio."
-msgstr ""
+msgstr "Allungata per riempire lo schermo mantenendo le proporzioni."
 
 #: game/scrnset.msg:522
 msgid ""
 "Stretched to fill the screen. Note: A space will remain at the bottom of the"
 " screen if subtitles are enabled."
 msgstr ""
+"Allungata per riempire lo schermo. Nota: uno spazio sarà visibile se i "
+"sottotitoli sono abilitati."
 
 #: game/scrnset.msg:523
 msgid "Click below to cycle the in-game interface Side Bar options."
-msgstr ""
+msgstr "Clicca sotto per scorrere le interfacce di gioco disponibili."
 
 #: game/scrnset.msg:524
 msgid "Apply any changes and Exit."
-msgstr ""
+msgstr "Applica le modifiche ed Esci."
 
 #: game/scrnset.msg:525
 msgid "Exit without saving."
-msgstr ""
+msgstr "Esci senza salvare."
