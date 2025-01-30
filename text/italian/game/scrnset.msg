@@ -20,15 +20,15 @@
 {106}{}{Cambia immagine inferiore}
 {107}{}{Inverti Lista}
 {108}{}{Finestra}
-{109}{}{Set Scroll Key}
+{109}{}{Imposta tasto Blocco scorrimento}
 {110}{}{Ingrandisci X2}
 {111}{}{Frequenza di Aggiornamento}
-{130}{}{Window Key}
+{130}{}{Tasto Window}
 {131}{}{Seleziona}
 {132}{}{Nome}
-{140}{}{Modalità Grafica:}
+{140}{}{Modalita' Grafica:}
 {141}{}{Basica}
-{142}{}{Modalità Sfall DirectX 9:}
+{142}{}{Modalita' Sfall DirectX 9:}
 {143}{}{}
 {144}{}{DirectDraw 7}
 {145}{}{}
@@ -47,30 +47,30 @@
 {158}{}{Slides Finali}
 {159}{}{Menu Principale}
 {200}{}{Sfall}
-{201}{}{SCALE-TO: RES.}
-{202}{}{DX-9 MODE}
-{203}{}{Off}
-{204}{}{Fullscreen}
-{205}{}{Window}
+{201}{}{SCALA ALLA : RIS.}
+{202}{}{MOD. DX-9}
+{203}{}{Spento}
+{204}{}{Pieno Schermo}
+{205}{}{Finestra}
 {206}{}{GPU Blitting}
-{207}{}{This setting has no effect while in Basic Graphics Mode.}
-{250}{}{Ignore PC Scroll Limit}
-{253}{}{Path Finding Range}
-{254}{}{Normal}
+{207}{}{Questa impostazioni non ha effetto quando si e' in modalita' Base.}
+{250}{}{Ignora Limite di Scorrimento}
+{253}{}{Distanza Percorribile}
+{254}{}{Normale}
 {255}{}{Max}
-{256}{}{Enable Fog Of War}
-{257}{}{Fog Visibility}
-{258}{}{Dark}
-{259}{}{Brighter}
-{300}{}{PRESS A KEY or ESC to cancel.}
-{500}{}{Hi-Res Patch settings.}
-{501}{}{Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen Mode.}
-{502}{}{Setup the Fullscreen Colour output here.}
-{503}{}{Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver default setting.}
-{504}{}{Customize the Fullscreen Width by clicking the number box.}
-{505}{}{Customize the Fullscreen Height by clicking the number box.}
-{506}{}{Enable or Disable Window Mode.}
-{507}{}{In Window Mode, this is the key you will hold down when using the mouse to scroll the Game and World maps.}
+{256}{}{Abilita Nebbia di Guerra}
+{257}{}{Visibilita' nebbia}
+{258}{}{Coperto}
+{259}{}{Scoperto}
+{300}{}{PREMI UN TASTO o ESC per annullare.}
+{500}{}{Impostazioni Hi-Res.}
+{501}{}{Imposta la Risoluzione dello schermo, Colore e frequenza di aggiornamento per lo Schermo Intero.}
+{502}{}{Imposta il Colore a Schermo Intero.}
+{503}{}{Imposta la Frequenza di Aggiornamento. Imposta '0' per usare le impostazioni predefinite del driver.}
+{504}{}{Personalizza la Larghezza a Pieno Schermo cliccando nella casella sottostante.}
+{505}{}{Personalizza la Altezza a Pieno Schermo cliccando nella casella sottostante.}
+{506}{}{Abilita o Disabilita la modalita' a Finestra.}
+{507}{}{In modalita' Finestra, questo e' il tasto che dovrai tenere premuto per scorrere le schermante del Gioco e della Mappa.}
 {508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
 {509}{}{The name of the currently selected key.}
 {510}{}{Enable X2 scaling. This will also up the min res to 1280x960. With Window mode requiring more space for its frame.}
@@ -81,11 +81,11 @@
 {515}{}{When enabled, scrolling away from the Player Character is unlimited. This works well if Fog Of War enabled.}
 {516}{}{Increase the number of search nodes to extend the path finding distance. 20 levels in 2000 node increments.}
 {517}{}{2000 path search nodes (original value). Note: Each level requires an additional 156.25 KB of memory.}
-{518}{}{40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory.}
-{519}{}{Adjust how certain screens are displayed.}
-{520}{}{Original size.}
-{521}{}{Stretched to fit the size of the screen while maintaining the original aspect ratio.}
-{522}{}{Stretched to fill the screen. Note: A space will remain at the bottom of the screen if subtitles are enabled.}
-{523}{}{Click below to cycle the in-game interface Side Bar options.}
-{524}{}{Apply any changes and Exit.}
-{525}{}{Exit without saving.}
+{518}{}{40 000 nodi di ricerca. Nota: richiede 3200000 bytes (3125 KB) di memoria.}
+{519}{}{Imposta come certe schermate si visualizzino.}
+{520}{}{Dimensione originale.}
+{521}{}{Allungata per riempire lo schermo mantenendo le proporzioni.}
+{522}{}{Allungata per riempire lo schermo. Nota: uno spazio sarà visibile se i sottotitoli sono abilitati.}
+{523}{}{Clicca sotto per scorrere le interfacce di gioco disponibili.}
+{524}{}{Applica le modifiche ed Esci.}
+{525}{}{Esci senza salvare.}
