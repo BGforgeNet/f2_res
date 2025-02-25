@@ -1,15 +1,15 @@
-{0}{}{Game Preferences}
-{1}{}{Screen Settings}
-{50}{}{Screen Settings}
-{51}{}{Custom}
-{52}{}{Width}
-{53}{}{Height}
-{54}{}{Done}
-{55}{}{Cancel}
-{56}{}{Fallout must restart to apply settings.}
-{57}{}{Would you like to restart Fallout now?}
-{58}{}{True}
-{59}{}{False}
+{0}{}{Preferencias de juego}
+{1}{}{Configuracion de pantalla}
+{50}{}{Configuracion de pantalla}
+{51}{}{Personalización}
+{52}{}{Anchura}
+{53}{}{Altura}
+{54}{}{Hecho}
+{55}{}{Cancelar}
+{56}{}{Fallout debe reiniciar para aplicar los ajustes.}
+{57}{}{¿Desea reiniciar Fallout ahora?}
+{58}{}{Si}
+{59}{}{No}
 {60}{}{}
 {100}{}{Hi-Res}
 {101}{}{RESOLUTION}
