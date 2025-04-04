@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2025-02-25 12:28+0000\n"
-"Last-Translator: Diego Antonio Tintos Vilchis <tonytintos134@gmail.com>\n"
+"PO-Revision-Date: 2025-04-05 19:29+0000\n"
+"Last-Translator: Aguara Guasu (Aguara G) <lightfox.tekoreimante@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,7 @@ msgstr " "
 
 #: game/scrnset.msg:100
 msgid "Hi-Res"
-msgstr ""
+msgstr "Alta-resolución"
 
 #: game/scrnset.msg:101
 msgid "RESOLUTION"
@@ -110,35 +110,35 @@ msgstr ""
 
 #: game/scrnset.msg:111
 msgid "Refresh Rate"
-msgstr ""
+msgstr "Frecuencia de actualización"
 
 #: game/scrnset.msg:130
 msgid "Window Key"
-msgstr ""
+msgstr "Tecla de Windows"
 
 #: game/scrnset.msg:131
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 #: game/scrnset.msg:132
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: game/scrnset.msg:140
 msgid "Graphics Mode:"
-msgstr ""
+msgstr "Modo Grafico:"
 
 #: game/scrnset.msg:141
 msgid "Basic"
-msgstr ""
+msgstr "Básico"
 
 #: game/scrnset.msg:142
 msgid "Sfall DirectX 9 Mode:"
-msgstr ""
+msgstr "Modo Sfall DirectX 9:"
 
 #: game/scrnset.msg:144
 msgid "DirectDraw 7"
-msgstr ""
+msgstr "DirectDraw 7"
 
 #: game/scrnset.msg:147
 msgid "Direct3D 9"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: game/scrnset.msg:148
 msgid "Vertex Hardware Processing:"
-msgstr ""
+msgstr "Procesamiento de hardware de vértices:"
 
 #: game/scrnset.msg:149
 msgid "Shader Version 2.0:"
@@ -158,19 +158,19 @@ msgstr ""
 
 #: game/scrnset.msg:151
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 #: game/scrnset.msg:152
 msgid "Fit"
-msgstr ""
+msgstr "Ajustar"
 
 #: game/scrnset.msg:153
 msgid "Fill"
-msgstr ""
+msgstr "Rellenar"
 
 #: game/scrnset.msg:154
 msgid "Movies"
-msgstr ""
+msgstr "Peliculas"
 
 #: game/scrnset.msg:155
 msgid "Splash"
@@ -178,11 +178,11 @@ msgstr ""
 
 #: game/scrnset.msg:156
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 #: game/scrnset.msg:157
 msgid "Death"
-msgstr ""
+msgstr "Muerte"
 
 #: game/scrnset.msg:158
 msgid "End Slides"
@@ -190,7 +190,7 @@ msgstr ""
 
 #: game/scrnset.msg:159
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu principal"
 
 #: game/scrnset.msg:200
 msgid "Sfall"
@@ -198,23 +198,23 @@ msgstr ""
 
 #: game/scrnset.msg:201
 msgid "SCALE-TO: RES."
-msgstr ""
+msgstr "Escalar a: Resolución."
 
 #: game/scrnset.msg:202
 msgid "DX-9 MODE"
-msgstr ""
+msgstr "Modo DX-9"
 
 #: game/scrnset.msg:203
 msgid "Off"
-msgstr ""
+msgstr "Apagado"
 
 #: game/scrnset.msg:204
 msgid "Fullscreen"
-msgstr ""
+msgstr "Pantalla completa"
 
 #: game/scrnset.msg:205
 msgid "Window"
-msgstr ""
+msgstr "Ventana"
 
 #: game/scrnset.msg:206
 msgid "GPU Blitting"
@@ -222,15 +222,15 @@ msgstr ""
 
 #: game/scrnset.msg:207
 msgid "This setting has no effect while in Basic Graphics Mode."
-msgstr ""
+msgstr "Esta configuración no tiene efecto en el modo de gráficos básicos."
 
 #: game/scrnset.msg:250
 msgid "Ignore PC Scroll Limit"
-msgstr ""
+msgstr "Ignorar el límite de desplazamiento de la PC"
 
 #: game/scrnset.msg:253
 msgid "Path Finding Range"
-msgstr ""
+msgstr "Distancia Máxima de Trazado"
 
 #: game/scrnset.msg:254
 msgid "Normal"
@@ -290,7 +290,7 @@ msgstr ""
 
 #: game/scrnset.msg:506
 msgid "Enable or Disable Window Mode."
-msgstr ""
+msgstr "Activa o desactiva el Modo Ventana."
 
 #: game/scrnset.msg:507
 msgid ""
@@ -391,4 +391,4 @@ msgstr ""
 
 #: game/scrnset.msg:525
 msgid "Exit without saving."
-msgstr ""
+msgstr "Salir sin guardar."
