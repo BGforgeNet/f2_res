@@ -11,7 +11,7 @@
 {58}{}{Si}
 {59}{}{No}
 {60}{}{}
-{100}{}{Hi-Res}
+{100}{}{Alta-resolución}
 {101}{}{RESOLUTION}
 {102}{}{Colours}
 {103}{}{8 Bit}
@@ -22,40 +22,40 @@
 {108}{}{Windowed}
 {109}{}{Set Scroll Key}
 {110}{}{Scaling X2}
-{111}{}{Refresh Rate}
-{130}{}{Window Key}
-{131}{}{Select}
-{132}{}{Name}
-{140}{}{Graphics Mode:}
-{141}{}{Basic}
-{142}{}{Sfall DirectX 9 Mode:}
+{111}{}{Frecuencia de actualización}
+{130}{}{Tecla de Windows}
+{131}{}{Seleccionar}
+{132}{}{Nombre}
+{140}{}{Modo Grafico:}
+{141}{}{Básico}
+{142}{}{Modo Sfall DirectX 9:}
 {143}{}{}
 {144}{}{DirectDraw 7}
 {145}{}{}
 {146}{}{}
 {147}{}{Direct3D 9}
-{148}{}{Vertex Hardware Processing:}
+{148}{}{Procesamiento de hardware de vértices:}
 {149}{}{Shader Version 2.0:}
 {150}{}{Panel Scaling}
-{151}{}{None}
-{152}{}{Fit}
-{153}{}{Fill}
-{154}{}{Movies}
+{151}{}{Ninguno}
+{152}{}{Ajustar}
+{153}{}{Rellenar}
+{154}{}{Peliculas}
 {155}{}{Splash}
-{156}{}{Help}
-{157}{}{Death}
+{156}{}{Ayuda}
+{157}{}{Muerte}
 {158}{}{End Slides}
-{159}{}{Main Menu}
+{159}{}{Menu principal}
 {200}{}{Sfall}
-{201}{}{SCALE-TO: RES.}
-{202}{}{DX-9 MODE}
-{203}{}{Off}
-{204}{}{Fullscreen}
-{205}{}{Window}
+{201}{}{Escalar a: Resolución.}
+{202}{}{Modo DX-9}
+{203}{}{Apagado}
+{204}{}{Pantalla completa}
+{205}{}{Ventana}
 {206}{}{GPU Blitting}
-{207}{}{This setting has no effect while in Basic Graphics Mode.}
-{250}{}{Ignore PC Scroll Limit}
-{253}{}{Path Finding Range}
+{207}{}{Esta configuración no tiene efecto en el modo de gráficos básicos.}
+{250}{}{Ignorar el límite de desplazamiento de la PC}
+{253}{}{Distancia Máxima de Trazado}
 {254}{}{Normal}
 {255}{}{Max}
 {256}{}{Enable Fog Of War}
@@ -69,7 +69,7 @@
 {503}{}{Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver default setting.}
 {504}{}{Customize the Fullscreen Width by clicking the number box.}
 {505}{}{Customize the Fullscreen Height by clicking the number box.}
-{506}{}{Enable or Disable Window Mode.}
+{506}{}{Activa o desactiva el Modo Ventana.}
 {507}{}{In Window Mode, this is the key you will hold down when using the mouse to scroll the Game and World maps.}
 {508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
 {509}{}{The name of the currently selected key.}
@@ -88,4 +88,4 @@
 {522}{}{Stretched to fill the screen. Note: A space will remain at the bottom of the screen if subtitles are enabled.}
 {523}{}{Click below to cycle the in-game interface Side Bar options.}
 {524}{}{Apply any changes and Exit.}
-{525}{}{Exit without saving.}
+{525}{}{Salir sin guardar.}
