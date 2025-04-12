@@ -7,3 +7,5 @@
 [![IRC](https://img.shields.io/badge/%23IRC-join%20%20%20%20%E2%9D%B1%E2%9D%B1%E2%9D%B1-darkorange)](https://bgforge.net/irc)
 
 Localization and other supplementary files for F2 HRP.
+
+[Changelog](docs/changelog.md)
