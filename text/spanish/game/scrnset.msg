@@ -12,16 +12,16 @@
 {59}{}{No}
 {60}{}{}
 {100}{}{Alta-resolución}
-{101}{}{RESOLUTION}
-{102}{}{Colours}
-{103}{}{8 Bit}
-{104}{}{16 Bit}
-{105}{}{32 Bit}
-{106}{}{Change Side-Bar Art}
-{107}{}{Invert List}
-{108}{}{Windowed}
-{109}{}{Set Scroll Key}
-{110}{}{Scaling X2}
+{101}{}{RESOLUCIÓN}
+{102}{}{Colores}
+{103}{}{8 Bits}
+{104}{}{16 Bits}
+{105}{}{32 Bits}
+{106}{}{Cambiar el arte de la barra lateral}
+{107}{}{Invertir lista}
+{108}{}{Ventana}
+{109}{}{Tecla de desplazamiento}
+{110}{}{Escala X2}
 {111}{}{Frecuencia de actualización}
 {130}{}{Tecla de Windows}
 {131}{}{Seleccionar}
@@ -35,7 +35,7 @@
 {146}{}{}
 {147}{}{Direct3D 9}
 {148}{}{Procesamiento de hardware de vértices:}
-{149}{}{Shader Version 2.0:}
+{149}{}{Shader versión 2.0:}
 {150}{}{Panel Scaling}
 {151}{}{Ninguno}
 {152}{}{Ajustar}
