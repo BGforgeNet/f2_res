@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2025-07-20 18:17+0000\n"
+"PO-Revision-Date: 2025-07-21 14:43+0000\n"
 "Last-Translator: Qwest8K <BloodRayne4000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: russian\n"
@@ -138,7 +138,6 @@ msgid "Sfall DirectX 9 Mode:"
 msgstr "Sfall в режиме DirectX 9:"
 
 #: game/scrnset.msg:144
-#, fuzzy
 msgid "DirectDraw 7"
 msgstr "DirectDraw 7"
 
@@ -147,7 +146,6 @@ msgid "Direct3D 9"
 msgstr "Direct3D 9"
 
 #: game/scrnset.msg:148
-#, fuzzy
 msgid "Vertex Hardware Processing:"
 msgstr "Аппаратная обработка вершин:"
 
@@ -196,7 +194,6 @@ msgid "Main Menu"
 msgstr "Глав. Меню"
 
 #: game/scrnset.msg:200
-#, fuzzy
 msgid "Sfall"
 msgstr "Sfall"
 
@@ -222,7 +219,7 @@ msgstr "В Окне"
 
 #: game/scrnset.msg:206
 msgid "GPU Blitting"
-msgstr ""
+msgstr "Blitting на GPU"
 
 #: game/scrnset.msg:207
 msgid "This setting has no effect while in Basic Graphics Mode."
