@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2024-12-23 18:40+0000\n"
+"PO-Revision-Date: 2025-07-29 16:22+0000\n"
 "Last-Translator: DocteurKain <jeanpeuplus@free.fr>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -198,7 +198,7 @@ msgstr "Sfall"
 
 #: game/scrnset.msg:201
 msgid "SCALE-TO: RES."
-msgstr ""
+msgstr "ECHELLE : RES."
 
 #: game/scrnset.msg:202
 msgid "DX-9 MODE"
@@ -311,6 +311,8 @@ msgid ""
 "Press the red button to select a different key. Or click the number box to "
 "edit the Windows Virtual key code."
 msgstr ""
+"Appuyez sur le bouton rouge pour sélectionner une autre touche, ou cliquez "
+"sur la case numérique pour modifier le code Windows Virtual key."
 
 #: game/scrnset.msg:509
 msgid "The name of the currently selected key."
@@ -339,69 +341,89 @@ msgid ""
 "Adjust the light level and the Mouse 'look at' visibility of floors, walls "
 "and scenery under the fog."
 msgstr ""
+"Ajustez le niveau de luminosité et la visibilité de la souris sur les sols, "
+"les murs et le décor sous le brouillard."
 
 #: game/scrnset.msg:513
 msgid ""
 "Floors, walls and scenery will always be visible and Mouse \"look at\" will "
 "function normally."
 msgstr ""
+"Les sols, les murs et les décors seront toujours visibles et la fonction « "
+"regarder » de la souris fonctionnera normalement."
 
 #: game/scrnset.msg:514
 msgid ""
 "Floors, walls and scenery will be darkened and unresponsive to Mouse \"look "
 "at\" until discovered."
 msgstr ""
+"Les sols, les murs et les décors seront assombris et ne répondront pas à la "
+"fonction « regarder » de la souris tant qu'ils n'auront pas été découverts."
 
 #: game/scrnset.msg:515
 msgid ""
 "When enabled, scrolling away from the Player Character is unlimited. This "
 "works well if Fog Of War enabled."
 msgstr ""
+"Lorsque cette option est activée, le défilement loin du personnage joueur "
+"est illimité. Cela fonctionne bien si l'option Fog Of War est activée."
 
 #: game/scrnset.msg:516
 msgid ""
 "Increase the number of search nodes to extend the path finding distance. 20 "
 "levels in 2000 node increments."
 msgstr ""
+"Augmentez le nombre de nœuds de recherche pour étendre la distance de "
+"recherche de chemin. 20 niveaux par incréments de 2000 nœuds."
 
 #: game/scrnset.msg:517
 msgid ""
 "2000 path search nodes (original value). Note: Each level requires an "
 "additional 156.25 KB of memory."
 msgstr ""
+"2000 nœuds de recherche de chemin (valeur d'origine). Remarque : chaque "
+"niveau nécessite 156,25 Ko de mémoire supplémentaire."
 
 #: game/scrnset.msg:518
 msgid ""
 "40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory."
 msgstr ""
+"40 000 nœuds de recherche de chemin. Remarque : nécessite 3 200 000 octets ("
+"3 125 Ko) de mémoire."
 
 #: game/scrnset.msg:519
 msgid "Adjust how certain screens are displayed."
-msgstr ""
+msgstr "Ajustez l'affichage de certains écrans."
 
 #: game/scrnset.msg:520
 msgid "Original size."
-msgstr ""
+msgstr "Taille originale."
 
 #: game/scrnset.msg:521
 msgid ""
 "Stretched to fit the size of the screen while maintaining the original "
 "aspect ratio."
 msgstr ""
+"Étiré pour s'adapter à la taille de l'écran tout en conservant le format "
+"d'origine."
 
 #: game/scrnset.msg:522
 msgid ""
 "Stretched to fill the screen. Note: A space will remain at the bottom of the"
 " screen if subtitles are enabled."
 msgstr ""
+"Étiré pour remplir l'écran. Remarque : un espace restera en bas de l'écran "
+"si les sous-titres sont activés."
 
 #: game/scrnset.msg:523
 msgid "Click below to cycle the in-game interface Side Bar options."
 msgstr ""
+"Cliquez ci-dessous pour faire défiler les options de la barre latérale de "
+"l'interface du jeu."
 
 #: game/scrnset.msg:524
 msgid "Apply any changes and Exit."
-msgstr ""
+msgstr "Appliquez les modifications et quittez."
 
 #: game/scrnset.msg:525
 msgid "Exit without saving."
