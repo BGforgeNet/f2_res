@@ -47,7 +47,7 @@
 {158}{}{Fin}
 {159}{}{Menu}
 {200}{}{Sfall}
-{201}{}{SCALE-TO: RES.}
+{201}{}{ECHELLE : RES.}
 {202}{}{MODE DX-9}
 {203}{}{Désactivé}
 {204}{}{Plein écran}
@@ -71,21 +71,21 @@
 {505}{}{Personnalisez la hauteur du plein écran en cliquant sur la case numérique.}
 {506}{}{Activer ou désactiver le mode fenêtré.}
 {507}{}{En mode fenêtré, c'est la touche que vous devez maintenir enfoncée lorsque vous utilisez la souris pour faire défiler les cartes du jeu et du monde.}
-{508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
+{508}{}{Appuyez sur le bouton rouge pour sélectionner une autre touche, ou cliquez sur la case numérique pour modifier le code Windows Virtual key.}
 {509}{}{Le nom de la touche actuellement sélectionnée.}
 {510}{}{Activer la mise à l'échelle X2. Cela augmentera également la résolution minimale à 1280x960. Le mode fenêtre nécessitant plus d'espace pour son cadre.}
 {511}{}{Activer ou désactiver le brouillard de guerre. Pour obtenir les meilleurs résultats, il convient de l'activer avant d'entrer sur une carte pour la première fois.}
-{512}{}{Adjust the light level and the Mouse 'look at' visibility of floors, walls and scenery under the fog.}
-{513}{}{Floors, walls and scenery will always be visible and Mouse "look at" will function normally.}
-{514}{}{Floors, walls and scenery will be darkened and unresponsive to Mouse "look at" until discovered.}
-{515}{}{When enabled, scrolling away from the Player Character is unlimited. This works well if Fog Of War enabled.}
-{516}{}{Increase the number of search nodes to extend the path finding distance. 20 levels in 2000 node increments.}
-{517}{}{2000 path search nodes (original value). Note: Each level requires an additional 156.25 KB of memory.}
-{518}{}{40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory.}
-{519}{}{Adjust how certain screens are displayed.}
-{520}{}{Original size.}
-{521}{}{Stretched to fit the size of the screen while maintaining the original aspect ratio.}
-{522}{}{Stretched to fill the screen. Note: A space will remain at the bottom of the screen if subtitles are enabled.}
-{523}{}{Click below to cycle the in-game interface Side Bar options.}
-{524}{}{Apply any changes and Exit.}
+{512}{}{Ajustez le niveau de luminosité et la visibilité de la souris sur les sols, les murs et le décor sous le brouillard.}
+{513}{}{Les sols, les murs et les décors seront toujours visibles et la fonction « regarder » de la souris fonctionnera normalement.}
+{514}{}{Les sols, les murs et les décors seront assombris et ne répondront pas à la fonction « regarder » de la souris tant qu'ils n'auront pas été découverts.}
+{515}{}{Lorsque cette option est activée, le défilement loin du personnage joueur est illimité. Cela fonctionne bien si l'option Fog Of War est activée.}
+{516}{}{Augmentez le nombre de nœuds de recherche pour étendre la distance de recherche de chemin. 20 niveaux par incréments de 2000 nœuds.}
+{517}{}{2000 nœuds de recherche de chemin (valeur d'origine). Remarque : chaque niveau nécessite 156,25 Ko de mémoire supplémentaire.}
+{518}{}{40 000 nœuds de recherche de chemin. Remarque : nécessite 3 200 000 octets (3 125 Ko) de mémoire.}
+{519}{}{Ajustez l'affichage de certains écrans.}
+{520}{}{Taille originale.}
+{521}{}{Étiré pour s'adapter à la taille de l'écran tout en conservant le format d'origine.}
+{522}{}{Étiré pour remplir l'écran. Remarque : un espace restera en bas de l'écran si les sous-titres sont activés.}
+{523}{}{Cliquez ci-dessous pour faire défiler les options de la barre latérale de l'interface du jeu.}
+{524}{}{Appliquez les modifications et quittez.}
 {525}{}{Quitter sans sauvegarder.}
