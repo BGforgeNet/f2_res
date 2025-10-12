@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4
+
+- Updated interface bar FRMs.
+- Renamed **tchinese** to **cht** to match sfall's ddraw.ini default.
+
 ## 0.3
 
 Updated French, Russian translations.
