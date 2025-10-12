@@ -25,6 +25,12 @@ zip="${mod_name}_${version}.zip"
 rm -rf "$release_dir/text"
 mv text "$release_dir/text"
 rm -rf "$release_dir/text/po"
+
+# TODO: this is a hack to match sfall default path for Traditional Chinese.
+# msg2po extract to "tchinese", as that's the corresponding PO name/slug for that language.
+# Need to find a more permanent solution that doesn't require manual steps.
+mv "$release_dir/text/tchinese" "$release_dir/text/cht"
+
 cd "$release_dir"
 
 dat="${mod_name}.dat"
