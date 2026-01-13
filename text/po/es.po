@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2025-04-20 20:29+0000\n"
-"Last-Translator: Tako Takumi <ntako14@gmail.com>\n"
+"PO-Revision-Date: 2026-01-13 21:52+0000\n"
+"Last-Translator: Kharma <carloslagekhrm@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgstr "Invertir lista"
 
 #: game/scrnset.msg:108
 msgid "Windowed"
-msgstr "Ventana"
+msgstr "Modo ventana"
 
 #: game/scrnset.msg:109
 msgid "Set Scroll Key"
@@ -106,7 +106,7 @@ msgstr "Tecla de desplazamiento"
 
 #: game/scrnset.msg:110
 msgid "Scaling X2"
-msgstr "Escala X2"
+msgstr "Escalar X2"
 
 #: game/scrnset.msg:111
 msgid "Refresh Rate"
@@ -150,11 +150,11 @@ msgstr "Procesamiento de hardware de vértices:"
 
 #: game/scrnset.msg:149
 msgid "Shader Version 2.0:"
-msgstr "Shader versión 2.0:"
+msgstr "Versión de Shader 2.0:"
 
 #: game/scrnset.msg:150
 msgid "Panel Scaling"
-msgstr ""
+msgstr "Escalado de paneles"
 
 #: game/scrnset.msg:151
 msgid "None"
@@ -186,11 +186,11 @@ msgstr "Muerte"
 
 #: game/scrnset.msg:158
 msgid "End Slides"
-msgstr ""
+msgstr "Diapositivas finales"
 
 #: game/scrnset.msg:159
 msgid "Main Menu"
-msgstr "Menu principal"
+msgstr "Menú principal"
 
 #: game/scrnset.msg:200
 msgid "Sfall"
@@ -198,11 +198,11 @@ msgstr ""
 
 #: game/scrnset.msg:201
 msgid "SCALE-TO: RES."
-msgstr "Escalar a: Resolución."
+msgstr "ESCALAR-A: RES."
 
 #: game/scrnset.msg:202
 msgid "DX-9 MODE"
-msgstr "Modo DX-9"
+msgstr "MODO DX-9"
 
 #: game/scrnset.msg:203
 msgid "Off"
@@ -222,15 +222,15 @@ msgstr ""
 
 #: game/scrnset.msg:207
 msgid "This setting has no effect while in Basic Graphics Mode."
-msgstr "Esta configuración no tiene efecto en el modo de gráficos básicos."
+msgstr "Esta configuración no tiene efecto en el Modo de Gráficos Básicos."
 
 #: game/scrnset.msg:250
 msgid "Ignore PC Scroll Limit"
-msgstr "Ignorar el límite de desplazamiento de la PC"
+msgstr "Ignorar el límite de desplazamiento del PC"
 
 #: game/scrnset.msg:253
 msgid "Path Finding Range"
-msgstr "Distancia Máxima de Trazado"
+msgstr "Distancia máxima de desplazamiento"
 
 #: game/scrnset.msg:254
 msgid "Normal"
@@ -238,55 +238,60 @@ msgstr ""
 
 #: game/scrnset.msg:255
 msgid "Max"
-msgstr ""
+msgstr "Máximo"
 
 #: game/scrnset.msg:256
 msgid "Enable Fog Of War"
-msgstr ""
+msgstr "Habilitar Niebla de Guerra"
 
 #: game/scrnset.msg:257
 msgid "Fog Visibility"
-msgstr ""
+msgstr "Visibilidad de niebla"
 
 #: game/scrnset.msg:258
 msgid "Dark"
-msgstr ""
+msgstr "Oscuro"
 
 #: game/scrnset.msg:259
 msgid "Brighter"
-msgstr ""
+msgstr "Más claro"
 
 #: game/scrnset.msg:300
 msgid "PRESS A KEY or ESC to cancel."
-msgstr ""
+msgstr "Presiona una tecla o ESC para cancelar."
 
 #: game/scrnset.msg:500
 msgid "Hi-Res Patch settings."
-msgstr ""
+msgstr "Configuración del Hi-Res Patch."
 
 #: game/scrnset.msg:501
 msgid ""
 "Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen "
 "Mode."
 msgstr ""
+"Configure la resolución de pantalla, el modo de color y la frecuencia de "
+"actualización para el modo de pantalla completa."
 
 #: game/scrnset.msg:502
 msgid "Setup the Fullscreen Colour output here."
-msgstr ""
+msgstr "Configure aquí la salida de color de pantalla completa."
 
 #: game/scrnset.msg:503
 msgid ""
 "Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver "
 "default setting."
 msgstr ""
+"Configure aquí la frecuencia de actualización de pantalla completa. "
+"Establézcala en \"0\" para la configuración predeterminada del controlador."
 
 #: game/scrnset.msg:504
 msgid "Customize the Fullscreen Width by clicking the number box."
-msgstr ""
+msgstr "Personaliza el ancho de pantalla completa haciendo clic en el recuadro."
 
 #: game/scrnset.msg:505
 msgid "Customize the Fullscreen Height by clicking the number box."
 msgstr ""
+"Personaliza la altura de la pantalla completa haciendo clic en el recuadro."
 
 #: game/scrnset.msg:506
 msgid "Enable or Disable Window Mode."
@@ -297,97 +302,125 @@ msgid ""
 "In Window Mode, this is the key you will hold down when using the mouse to "
 "scroll the Game and World maps."
 msgstr ""
+"En el modo ventana, esta es la tecla que mantendrás presionada cuando uses "
+"el mouse para desplazarte por el juego y los mapas del mundo."
 
 #: game/scrnset.msg:508
 msgid ""
 "Press the red button to select a different key. Or click the number box to "
 "edit the Windows Virtual key code."
 msgstr ""
+"Presione el botón rojo para seleccionar una tecla diferente. O haga clic en "
+"el recuadro para editar el código de la tecla virtual de Windows."
 
 #: game/scrnset.msg:509
 msgid "The name of the currently selected key."
-msgstr ""
+msgstr "El nombre de la tecla seleccionada actualmente."
 
 #: game/scrnset.msg:510
 msgid ""
 "Enable X2 scaling. This will also up the min res to 1280x960. With Window "
 "mode requiring more space for its frame."
 msgstr ""
+"Habilite el escalado X2. Esto también aumentará la resolución mínima a "
+"1280x960. El modo Ventana requiere espacio para sus elementos."
 
 #: game/scrnset.msg:511
 msgid ""
 "Enable or Disable Fog Of War. For best results this should be enabled before"
 " entering a map for the first time."
 msgstr ""
+"Activa o desactiva la Niebla de Guerra. Para obtener mejores resultados, "
+"activa esta opción antes de entrar al mapa por primera vez."
 
 #: game/scrnset.msg:512
 msgid ""
 "Adjust the light level and the Mouse 'look at' visibility of floors, walls "
 "and scenery under the fog."
 msgstr ""
+"Ajusta el nivel de brillo y del \"mirar a\" del ratón en suelos, paredes y "
+"escenarios bajo la niebla de guerra."
 
 #: game/scrnset.msg:513
 msgid ""
 "Floors, walls and scenery will always be visible and Mouse \"look at\" will "
 "function normally."
 msgstr ""
+"Los suelos, paredes y escenarios siempre estarán visibles y la función "
+"\"mirar a\" del ratón funcionará con normalidad."
 
 #: game/scrnset.msg:514
 msgid ""
 "Floors, walls and scenery will be darkened and unresponsive to Mouse \"look "
 "at\" until discovered."
 msgstr ""
+"Los suelos, paredes y escenarios estarán oscurecidos y la función \"mirar a\""
+" del ratón NO funcionará hasta ser descubiertos."
 
 #: game/scrnset.msg:515
 msgid ""
 "When enabled, scrolling away from the Player Character is unlimited. This "
 "works well if Fog Of War enabled."
 msgstr ""
+"Cuando está habilitado, el desplazamiento alejándose del personaje es "
+"ilimitado. Funciona bien si la Niebla de Guerra está habilitada."
 
 #: game/scrnset.msg:516
 msgid ""
 "Increase the number of search nodes to extend the path finding distance. 20 "
 "levels in 2000 node increments."
 msgstr ""
+"Aumente la cantidad de nodos de búsqueda para ampliar la distancia de "
+"búsqueda de ruta. 20 niveles en incrementos de 2000 nodos."
 
 #: game/scrnset.msg:517
 msgid ""
 "2000 path search nodes (original value). Note: Each level requires an "
 "additional 156.25 KB of memory."
 msgstr ""
+"2000 nodos de búsqueda de ruta (valor original). Nota: Cada nivel requiere "
+"156,25 KB de memoria adicional."
 
 #: game/scrnset.msg:518
 msgid ""
 "40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory."
 msgstr ""
+"40 000 nodos de búsqueda de ruta. Nota: requiere 3200 000 bytes (3125 KB) de "
+"memoria."
 
 #: game/scrnset.msg:519
 msgid "Adjust how certain screens are displayed."
-msgstr ""
+msgstr "Ajusta cómo se muestran determinadas pantallas."
 
 #: game/scrnset.msg:520
 msgid "Original size."
-msgstr ""
+msgstr "Tamaño original."
 
 #: game/scrnset.msg:521
 msgid ""
 "Stretched to fit the size of the screen while maintaining the original "
 "aspect ratio."
 msgstr ""
+"Estirado para adaptarse al tamaño de la pantalla manteniendo la relación de "
+"aspecto original."
 
 #: game/scrnset.msg:522
 msgid ""
 "Stretched to fill the screen. Note: A space will remain at the bottom of the"
 " screen if subtitles are enabled."
 msgstr ""
+"Ampliado para llenar la pantalla. Nota: Si los subtítulos están habilitados, "
+"quedará un espacio en la parte inferior de la pantalla."
 
 #: game/scrnset.msg:523
 msgid "Click below to cycle the in-game interface Side Bar options."
 msgstr ""
+"Haz clic a continuación para alternar las opciones de la barra lateral de la "
+"interfaz del juego."
 
 #: game/scrnset.msg:524
 msgid "Apply any changes and Exit."
-msgstr ""
+msgstr "Aplicar cualquier cambio y salir."
 
 #: game/scrnset.msg:525
 msgid "Exit without saving."
