@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
 "PO-Revision-Date: 2026-01-14 22:52+0000\n"
-"Last-Translator: Kharma <carloslagekhrm@gmail.com>\n"
+"Last-Translator: Aguara Guasu (Aguara G) <lightfox.tekoreimante@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -234,7 +234,7 @@ msgstr "Distancia máxima de desplazamiento"
 
 #: game/scrnset.msg:254
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: game/scrnset.msg:255
 msgid "Max"
