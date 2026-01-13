@@ -19,9 +19,9 @@
 {105}{}{32 Bits}
 {106}{}{Cambiar el arte de la barra lateral}
 {107}{}{Invertir lista}
-{108}{}{Ventana}
+{108}{}{Modo ventana}
 {109}{}{Tecla de desplazamiento}
-{110}{}{Escala X2}
+{110}{}{Escalar X2}
 {111}{}{Frecuencia de actualización}
 {130}{}{Tecla de Windows}
 {131}{}{Seleccionar}
@@ -35,8 +35,8 @@
 {146}{}{}
 {147}{}{Direct3D 9}
 {148}{}{Procesamiento de hardware de vértices:}
-{149}{}{Shader versión 2.0:}
-{150}{}{Panel Scaling}
+{149}{}{Versión de Shader 2.0:}
+{150}{}{Escalado de paneles}
 {151}{}{Ninguno}
 {152}{}{Ajustar}
 {153}{}{Rellenar}
@@ -44,48 +44,48 @@
 {155}{}{Splash}
 {156}{}{Ayuda}
 {157}{}{Muerte}
-{158}{}{End Slides}
-{159}{}{Menu principal}
+{158}{}{Diapositivas finales}
+{159}{}{Menú principal}
 {200}{}{Sfall}
-{201}{}{Escalar a: Resolución.}
-{202}{}{Modo DX-9}
+{201}{}{ESCALAR-A: RES.}
+{202}{}{MODO DX-9}
 {203}{}{Apagado}
 {204}{}{Pantalla completa}
 {205}{}{Ventana}
 {206}{}{GPU Blitting}
-{207}{}{Esta configuración no tiene efecto en el modo de gráficos básicos.}
-{250}{}{Ignorar el límite de desplazamiento de la PC}
-{253}{}{Distancia Máxima de Trazado}
+{207}{}{Esta configuración no tiene efecto en el Modo de Gráficos Básicos.}
+{250}{}{Ignorar el límite de desplazamiento del PC}
+{253}{}{Distancia máxima de desplazamiento}
 {254}{}{Normal}
-{255}{}{Max}
-{256}{}{Enable Fog Of War}
-{257}{}{Fog Visibility}
-{258}{}{Dark}
-{259}{}{Brighter}
-{300}{}{PRESS A KEY or ESC to cancel.}
-{500}{}{Hi-Res Patch settings.}
-{501}{}{Setup the Screen Resolution, Colour mode and Refresh Rate for FullScreen Mode.}
-{502}{}{Setup the Fullscreen Colour output here.}
-{503}{}{Setup the Fullscreen Refresh Rate here. Set this to '0' for the driver default setting.}
-{504}{}{Customize the Fullscreen Width by clicking the number box.}
-{505}{}{Customize the Fullscreen Height by clicking the number box.}
+{255}{}{Máximo}
+{256}{}{Habilitar Niebla de Guerra}
+{257}{}{Visibilidad de niebla}
+{258}{}{Oscuro}
+{259}{}{Más claro}
+{300}{}{Presiona una tecla o ESC para cancelar.}
+{500}{}{Configuración del Hi-Res Patch.}
+{501}{}{Configure la resolución de pantalla, el modo de color y la frecuencia de actualización para el modo de pantalla completa.}
+{502}{}{Configure aquí la salida de color de pantalla completa.}
+{503}{}{Configure aquí la frecuencia de actualización de pantalla completa. Establézcala en "0" para la configuración predeterminada del controlador.}
+{504}{}{Personaliza el ancho de pantalla completa haciendo clic en el recuadro.}
+{505}{}{Personaliza la altura de la pantalla completa haciendo clic en el recuadro.}
 {506}{}{Activa o desactiva el Modo Ventana.}
-{507}{}{In Window Mode, this is the key you will hold down when using the mouse to scroll the Game and World maps.}
-{508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
-{509}{}{The name of the currently selected key.}
-{510}{}{Enable X2 scaling. This will also up the min res to 1280x960. With Window mode requiring more space for its frame.}
-{511}{}{Enable or Disable Fog Of War. For best results this should be enabled before entering a map for the first time.}
-{512}{}{Adjust the light level and the Mouse 'look at' visibility of floors, walls and scenery under the fog.}
-{513}{}{Floors, walls and scenery will always be visible and Mouse "look at" will function normally.}
-{514}{}{Floors, walls and scenery will be darkened and unresponsive to Mouse "look at" until discovered.}
-{515}{}{When enabled, scrolling away from the Player Character is unlimited. This works well if Fog Of War enabled.}
-{516}{}{Increase the number of search nodes to extend the path finding distance. 20 levels in 2000 node increments.}
-{517}{}{2000 path search nodes (original value). Note: Each level requires an additional 156.25 KB of memory.}
-{518}{}{40 000 path search nodes. Note: requires 3200000 bytes (3125 KB) of memory.}
-{519}{}{Adjust how certain screens are displayed.}
-{520}{}{Original size.}
-{521}{}{Stretched to fit the size of the screen while maintaining the original aspect ratio.}
-{522}{}{Stretched to fill the screen. Note: A space will remain at the bottom of the screen if subtitles are enabled.}
-{523}{}{Click below to cycle the in-game interface Side Bar options.}
-{524}{}{Apply any changes and Exit.}
+{507}{}{En el modo ventana, esta es la tecla que mantendrás presionada cuando uses el mouse para desplazarte por el juego y los mapas del mundo.}
+{508}{}{Presione el botón rojo para seleccionar una tecla diferente. O haga clic en el recuadro para editar el código de la tecla virtual de Windows.}
+{509}{}{El nombre de la tecla seleccionada actualmente.}
+{510}{}{Habilite el escalado X2. Esto también aumentará la resolución mínima a 1280x960. El modo Ventana requiere espacio para sus elementos.}
+{511}{}{Activa o desactiva la Niebla de Guerra. Para obtener mejores resultados, activa esta opción antes de entrar al mapa por primera vez.}
+{512}{}{Ajusta el nivel de brillo y del "mirar a" del ratón en suelos, paredes y escenarios bajo la niebla de guerra.}
+{513}{}{Los suelos, paredes y escenarios siempre estarán visibles y la función "mirar a" del ratón funcionará con normalidad.}
+{514}{}{Los suelos, paredes y escenarios estarán oscurecidos y la función "mirar a" del ratón NO funcionará hasta ser descubiertos.}
+{515}{}{Cuando está habilitado, el desplazamiento alejándose del personaje es ilimitado. Funciona bien si la Niebla de Guerra está habilitada.}
+{516}{}{Aumente la cantidad de nodos de búsqueda para ampliar la distancia de búsqueda de ruta. 20 niveles en incrementos de 2000 nodos.}
+{517}{}{2000 nodos de búsqueda de ruta (valor original). Nota: Cada nivel requiere 156,25 KB de memoria adicional.}
+{518}{}{40 000 nodos de búsqueda de ruta. Nota: requiere 3200 000 bytes (3125 KB) de memoria.}
+{519}{}{Ajusta cómo se muestran determinadas pantallas.}
+{520}{}{Tamaño original.}
+{521}{}{Estirado para adaptarse al tamaño de la pantalla manteniendo la relación de aspecto original.}
+{522}{}{Ampliado para llenar la pantalla. Nota: Si los subtítulos están habilitados, quedará un espacio en la parte inferior de la pantalla.}
+{523}{}{Haz clic a continuación para alternar las opciones de la barra lateral de la interfaz del juego.}
+{524}{}{Aplicar cualquier cambio y salir.}
 {525}{}{Salir sin guardar.}
