@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2025-01-30 11:40+0000\n"
-"Last-Translator: McNelly <valeriobuzi87@gmail.com>\n"
+"PO-Revision-Date: 2026-02-25 15:40+0000\n"
+"Last-Translator: Andrea Bordoni <a.bordoni85@yahoo.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -312,58 +312,77 @@ msgid ""
 "Press the red button to select a different key. Or click the number box to "
 "edit the Windows Virtual key code."
 msgstr ""
+"Premi il pulsante rosso per selezionare un tasto diverso. Oppure clicca "
+"sulla casella numerica per modificare il codice del tasto virtuale di "
+"Windows."
 
 #: game/scrnset.msg:509
 msgid "The name of the currently selected key."
-msgstr ""
+msgstr "Il nome del tasto attualmente selezionato."
 
 #: game/scrnset.msg:510
 msgid ""
 "Enable X2 scaling. This will also up the min res to 1280x960. With Window "
 "mode requiring more space for its frame."
 msgstr ""
+"Abilita la scalatura X2. Questo aumenterà anche la risoluzione minima a "
+"1280x960. Con la modalità finestra che richiede più spazio per il suo bordo."
 
 #: game/scrnset.msg:511
 msgid ""
 "Enable or Disable Fog Of War. For best results this should be enabled before"
 " entering a map for the first time."
 msgstr ""
+"Abilita o Disabilita la Nebbia di Guerra. Per i migliori risultati dovrebbe "
+"essere abilitata prima di entrare in una mappa per la prima volta."
 
 #: game/scrnset.msg:512
 msgid ""
 "Adjust the light level and the Mouse 'look at' visibility of floors, walls "
 "and scenery under the fog."
 msgstr ""
+"Regola il livello di luce e la visibilità 'guarda' del mouse per pavimenti, "
+"muri e scenari sotto la nebbia."
 
 #: game/scrnset.msg:513
 msgid ""
 "Floors, walls and scenery will always be visible and Mouse \"look at\" will "
 "function normally."
 msgstr ""
+"Pavimenti, muri e scenari saranno sempre visibili e il Mouse \"guarda\" "
+"funzionerà normalmente."
 
 #: game/scrnset.msg:514
 msgid ""
 "Floors, walls and scenery will be darkened and unresponsive to Mouse \"look "
 "at\" until discovered."
 msgstr ""
+"Pavimenti, muri e scenari saranno oscurati e non risponderanno al Mouse "
+"\"guarda\" finché non verranno scoperti."
 
 #: game/scrnset.msg:515
 msgid ""
 "When enabled, scrolling away from the Player Character is unlimited. This "
 "works well if Fog Of War enabled."
 msgstr ""
+"Quando abilitato, lo scorrimento lontano dal Personaggio del Giocatore è "
+"illimitato. Funziona bene se la Nebbia di Guerra è abilitata."
 
 #: game/scrnset.msg:516
 msgid ""
 "Increase the number of search nodes to extend the path finding distance. 20 "
 "levels in 2000 node increments."
 msgstr ""
+"Aumenta il numero di nodi di ricerca per estendere la distanza di ricerca "
+"del percorso. 20 livelli in incrementi di 2000 nodi."
 
 #: game/scrnset.msg:517
 msgid ""
 "2000 path search nodes (original value). Note: Each level requires an "
 "additional 156.25 KB of memory."
 msgstr ""
+"2000 nodi di ricerca del percorso (valore originale). Nota: Ogni livello "
+"richiede 156,25 KB aggiuntivi di memoria."
 
 #: game/scrnset.msg:518
 msgid ""
