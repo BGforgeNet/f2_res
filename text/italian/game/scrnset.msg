@@ -71,16 +71,16 @@
 {505}{}{Personalizza la Altezza a Pieno Schermo cliccando nella casella sottostante.}
 {506}{}{Abilita o Disabilita la modalita' a Finestra.}
 {507}{}{In modalita' Finestra, questo e' il tasto che dovrai tenere premuto per scorrere le schermante del Gioco e della Mappa.}
-{508}{}{Press the red button to select a different key. Or click the number box to edit the Windows Virtual key code.}
-{509}{}{The name of the currently selected key.}
-{510}{}{Enable X2 scaling. This will also up the min res to 1280x960. With Window mode requiring more space for its frame.}
-{511}{}{Enable or Disable Fog Of War. For best results this should be enabled before entering a map for the first time.}
-{512}{}{Adjust the light level and the Mouse 'look at' visibility of floors, walls and scenery under the fog.}
-{513}{}{Floors, walls and scenery will always be visible and Mouse "look at" will function normally.}
-{514}{}{Floors, walls and scenery will be darkened and unresponsive to Mouse "look at" until discovered.}
-{515}{}{When enabled, scrolling away from the Player Character is unlimited. This works well if Fog Of War enabled.}
-{516}{}{Increase the number of search nodes to extend the path finding distance. 20 levels in 2000 node increments.}
-{517}{}{2000 path search nodes (original value). Note: Each level requires an additional 156.25 KB of memory.}
+{508}{}{Premi il pulsante rosso per selezionare un tasto diverso. Oppure clicca sulla casella numerica per modificare il codice del tasto virtuale di Windows.}
+{509}{}{Il nome del tasto attualmente selezionato.}
+{510}{}{Abilita la scalatura X2. Questo aumenterà anche la risoluzione minima a 1280x960. Con la modalità finestra che richiede più spazio per il suo bordo.}
+{511}{}{Abilita o Disabilita la Nebbia di Guerra. Per i migliori risultati dovrebbe essere abilitata prima di entrare in una mappa per la prima volta.}
+{512}{}{Regola il livello di luce e la visibilità 'guarda' del mouse per pavimenti, muri e scenari sotto la nebbia.}
+{513}{}{Pavimenti, muri e scenari saranno sempre visibili e il Mouse "guarda" funzionerà normalmente.}
+{514}{}{Pavimenti, muri e scenari saranno oscurati e non risponderanno al Mouse "guarda" finché non verranno scoperti.}
+{515}{}{Quando abilitato, lo scorrimento lontano dal Personaggio del Giocatore è illimitato. Funziona bene se la Nebbia di Guerra è abilitata.}
+{516}{}{Aumenta il numero di nodi di ricerca per estendere la distanza di ricerca del percorso. 20 livelli in incrementi di 2000 nodi.}
+{517}{}{2000 nodi di ricerca del percorso (valore originale). Nota: Ogni livello richiede 156,25 KB aggiuntivi di memoria.}
 {518}{}{40 000 nodi di ricerca. Nota: richiede 3200000 bytes (3125 KB) di memoria.}
 {519}{}{Imposta come certe schermate si visualizzino.}
 {520}{}{Dimensione originale.}
