@@ -73,7 +73,7 @@
 {507}{}{In modalita' Finestra, questo e' il tasto che dovrai tenere premuto per scorrere le schermante del Gioco e della Mappa.}
 {508}{}{Premi il pulsante rosso per selezionare un tasto diverso. Oppure clicca sulla casella numerica per modificare il codice del tasto virtuale di Windows.}
 {509}{}{Il nome del tasto attualmente selezionato.}
-{510}{}{Abilita la scalatura X2. Questo aumenterà anche la risoluzione minima a 1280x960. Con la modalità finestra che richiede più spazio per il suo bordo.}
+{510}{}{Abilita la scalatura X2. Questo aumentera' anche la risoluzione minima a 1280x960. Con la modalita' finestra che richiede più spazio per il suo bordo.}
 {511}{}{Abilita o Disabilita la Nebbia di Guerra. Per i migliori risultati dovrebbe essere abilitata prima di entrare in una mappa per la prima volta.}
 {512}{}{Regola il livello di luce e la visibilità 'guarda' del mouse per pavimenti, muri e scenari sotto la nebbia.}
 {513}{}{Pavimenti, muri e scenari saranno sempre visibili e il Mouse "guarda" funzionerà normalmente.}

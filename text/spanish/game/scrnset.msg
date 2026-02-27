@@ -41,7 +41,7 @@
 {152}{}{Ajustar}
 {153}{}{Rellenar}
 {154}{}{Peliculas}
-{155}{}{Splash}
+{155}{}{Intro}
 {156}{}{Ayuda}
 {157}{}{Muerte}
 {158}{}{Diapositivas finales}
