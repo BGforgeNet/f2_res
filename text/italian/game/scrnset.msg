@@ -22,7 +22,7 @@
 {108}{}{Finestra}
 {109}{}{Imposta tasto Blocco scorrimento}
 {110}{}{Ingrandisci X2}
-{111}{}{Frequenza di Aggiornamento}
+{111}{}{FREQ. AGGIORNAMENTO}
 {130}{}{Tasto Window}
 {131}{}{Seleziona}
 {132}{}{Nome}
@@ -37,8 +37,8 @@
 {148}{}{Processione Vertex Hardware:}
 {149}{}{Shader Versione 2.0:}
 {150}{}{Scala Pannello}
-{151}{}{Nessuno}
-{152}{}{Riempi}
+{151}{}{No}
+{152}{}{Adatta}
 {153}{}{Riempi}
 {154}{}{Filmati}
 {155}{}{Schermata Iniziale}
