@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2026-01-14 22:52+0000\n"
-"Last-Translator: Aguara Guasu (Aguara G) <lightfox.tekoreimante@gmail.com>\n"
+"PO-Revision-Date: 2026-02-27 16:55+0000\n"
+"Last-Translator: Kharma <carloslagekhrm@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -174,7 +174,7 @@ msgstr "Peliculas"
 
 #: game/scrnset.msg:155
 msgid "Splash"
-msgstr ""
+msgstr "Intro"
 
 #: game/scrnset.msg:156
 msgid "Help"
