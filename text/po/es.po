@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
 "PO-Revision-Date: 2026-02-27 16:55+0000\n"
-"Last-Translator: Kharma <carloslagekhrm@gmail.com>\n"
+"Last-Translator: Magus <magus@bgforge.net>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -218,7 +218,7 @@ msgstr "Ventana"
 
 #: game/scrnset.msg:206
 msgid "GPU Blitting"
-msgstr ""
+msgstr "GPU Blitting"
 
 #: game/scrnset.msg:207
 msgid "This setting has no effect while in Basic Graphics Mode."
