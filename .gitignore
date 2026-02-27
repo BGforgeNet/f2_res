@@ -2,3 +2,4 @@
 file.list
 release/text
 release/*.dat
+extra/bin/*

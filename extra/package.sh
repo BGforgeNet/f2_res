@@ -2,14 +2,20 @@
 
 set -xeu -o pipefail
 
-export WINEARCH="win32"
-export WINEDEBUG="-all"
-extra_dir="$(realpath extra)"
-bin_dir="$extra_dir/bin"
-dat2a="wine $bin_dir/dat2.exe a"
-file_list="$(realpath file.list)"
-release_dir="$(realpath release)"
-mod_name=f2_res
+EXTRA_DIR="$(realpath extra)"
+BIN_DIR="$EXTRA_DIR/bin"
+RELEASE_DIR="$(realpath release)"
+MOD_NAME=f2_res
+
+# Download dat3 tool if it doesn't exist
+DAT3_VERSION="v0.6.0"
+DAT3_URL="https://github.com/BGforgeNet/dat3/releases/download/${DAT3_VERSION}/dat3"
+DAT3="$BIN_DIR/dat3"
+if [[ ! -f "$DAT3" ]]; then
+	mkdir -p "$BIN_DIR"
+    wget -q "$DAT3_URL" -O "$DAT3"
+    chmod +x "$DAT3"
+fi
 
 # package filename
 short_sha="$(git rev-parse --short HEAD)"
@@ -20,22 +26,21 @@ if [[ -n "${GITHUB_REF-}" ]]; then
         version="$(echo "$GITHUB_REF" | sed 's|refs\/tags\/||')"
     fi
 fi
-zip="${mod_name}_${version}.zip"
+ZIP_FILE="${MOD_NAME}_${version}.zip"
 
-rm -rf "$release_dir/text"
-mv text "$release_dir/text"
-rm -rf "$release_dir/text/po"
+rm -rf "$RELEASE_DIR/text"
+mv text "$RELEASE_DIR/text"
+rm -rf "$RELEASE_DIR/text/po"
 
 # TODO: this is a hack to match sfall default path for Traditional Chinese.
 # msg2po extract to "tchinese", as that's the corresponding PO name/slug for that language.
 # Need to find a more permanent solution that doesn't require manual steps.
-mv "$release_dir/text/tchinese" "$release_dir/text/cht"
+mv "$RELEASE_DIR/text/tchinese" "$RELEASE_DIR/text/cht"
 
-cd "$release_dir"
+cd "$RELEASE_DIR"
 
-dat="${mod_name}.dat"
-find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list"
-$dat2a "$release_dir/$dat" @"$file_list"
+DAT_FILE="${MOD_NAME}.dat"
+"$DAT3" a "$DAT_FILE" \*
 
-zip "$zip" $dat
-mv "$zip" ..
+zip "$ZIP_FILE" $DAT_FILE
+mv "$ZIP_FILE" ..

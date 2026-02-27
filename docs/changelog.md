@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5
+
+- Finished Spanish, Italian translation.
+
 ## 0.4
 
 - Updated interface bar FRMs.
