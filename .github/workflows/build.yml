@@ -9,23 +9,16 @@ jobs:
     if: github.actor != 'bgforge-hive' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: ShellCheck
         uses: ludeeus/action-shellcheck@master
-
-      - name: Install wine
-        uses: devopsx/gha-ubuntu-i386-fix@master
-
-      - name: Install packages
-        run: |
-          WINEARCH=win32 eatmydata wineboot
 
       - name: Build and package
         run: ./extra/package.sh
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: f2_res.zip
