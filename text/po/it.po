@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2026-02-27 16:55+0000\n"
+"PO-Revision-Date: 2026-02-28 18:40+0000\n"
 "Last-Translator: Andrea Bordoni <a.bordoni85@yahoo.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -110,7 +110,7 @@ msgstr "Ingrandisci X2"
 
 #: game/scrnset.msg:111
 msgid "Refresh Rate"
-msgstr "FREQ. AGGIORNAMENTO"
+msgstr "FREQ. AGGIORNAM."
 
 #: game/scrnset.msg:130
 msgid "Window Key"
@@ -162,11 +162,11 @@ msgstr "No"
 
 #: game/scrnset.msg:152
 msgid "Fit"
-msgstr "Adatta"
+msgstr "Adatt."
 
 #: game/scrnset.msg:153
 msgid "Fill"
-msgstr "Riempi"
+msgstr "Riem."
 
 #: game/scrnset.msg:154
 msgid "Movies"
@@ -206,7 +206,7 @@ msgstr "MOD. DX-9"
 
 #: game/scrnset.msg:203
 msgid "Off"
-msgstr "Spento"
+msgstr "Spe."
 
 #: game/scrnset.msg:204
 msgid "Fullscreen"
