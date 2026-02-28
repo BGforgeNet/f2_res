@@ -22,7 +22,7 @@
 {108}{}{Finestra}
 {109}{}{Imposta tasto Blocco scorrimento}
 {110}{}{Ingrandisci X2}
-{111}{}{FREQ. AGGIORNAMENTO}
+{111}{}{FREQ. AGGIORNAM.}
 {130}{}{Tasto Window}
 {131}{}{Seleziona}
 {132}{}{Nome}
@@ -38,8 +38,8 @@
 {149}{}{Shader Versione 2.0:}
 {150}{}{Scala Pannello}
 {151}{}{No}
-{152}{}{Adatta}
-{153}{}{Riempi}
+{152}{}{Adatt.}
+{153}{}{Riem.}
 {154}{}{Filmati}
 {155}{}{Schermata Iniziale}
 {156}{}{Aiuto}
@@ -49,7 +49,7 @@
 {200}{}{Sfall}
 {201}{}{SCALA ALLA : RIS.}
 {202}{}{MOD. DX-9}
-{203}{}{Spento}
+{203}{}{Spe.}
 {204}{}{Pieno Schermo}
 {205}{}{Finestra}
 {206}{}{GPU Blitting}
