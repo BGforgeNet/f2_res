@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-07-14:51+0000\n"
-"PO-Revision-Date: 2026-02-28 18:40+0000\n"
+"PO-Revision-Date: 2026-03-18 14:40+0000\n"
 "Last-Translator: Andrea Bordoni <a.bordoni85@yahoo.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -206,7 +206,7 @@ msgstr "MOD. DX-9"
 
 #: game/scrnset.msg:203
 msgid "Off"
-msgstr "Spe."
+msgstr "Off"
 
 #: game/scrnset.msg:204
 msgid "Fullscreen"
@@ -238,7 +238,7 @@ msgstr "Normale"
 
 #: game/scrnset.msg:255
 msgid "Max"
-msgstr "Max"
+msgstr "Massimo"
 
 #: game/scrnset.msg:256
 msgid "Enable Fog Of War"
