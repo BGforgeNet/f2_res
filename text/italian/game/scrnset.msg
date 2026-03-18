@@ -49,7 +49,7 @@
 {200}{}{Sfall}
 {201}{}{SCALA ALLA : RIS.}
 {202}{}{MOD. DX-9}
-{203}{}{Spe.}
+{203}{}{Off}
 {204}{}{Pieno Schermo}
 {205}{}{Finestra}
 {206}{}{GPU Blitting}
@@ -57,7 +57,7 @@
 {250}{}{Ignora Limite di Scorrimento}
 {253}{}{Distanza Percorribile}
 {254}{}{Normale}
-{255}{}{Max}
+{255}{}{Massimo}
 {256}{}{Abilita Nebbia di Guerra}
 {257}{}{Visibilita' nebbia}
 {258}{}{Coperto}
