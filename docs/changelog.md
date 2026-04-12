@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6
+
+- Updated Italian translation.
+
 ## 0.5
 
 - Finished Spanish, Italian translation.
