@@ -8,7 +8,7 @@ RELEASE_DIR="$(realpath release)"
 MOD_NAME=f2_res
 
 # Download dat3 tool if it doesn't exist
-DAT3_VERSION="v0.6.0"
+DAT3_VERSION="v0.6.1"
 DAT3_URL="https://github.com/BGforgeNet/dat3/releases/download/${DAT3_VERSION}/dat3"
 DAT3="$BIN_DIR/dat3"
 if [[ ! -f "$DAT3" ]]; then
