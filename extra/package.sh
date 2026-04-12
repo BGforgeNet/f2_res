@@ -18,15 +18,15 @@ if [[ ! -f "$DAT3" ]]; then
 fi
 
 # package filename
-short_sha="$(git rev-parse --short HEAD)"
-version="git$short_sha"
+SHORT_SHA="$(git rev-parse --short HEAD)"
+VERSION="git$SHORT_SHA"
 if [[ -n "${GITHUB_REF-}" ]]; then
     if echo "$GITHUB_REF" | grep "refs/tags"; then # tagged
         # shellcheck disable=SC2001 # sed is more readable
-        version="$(echo "$GITHUB_REF" | sed 's|refs\/tags\/||')"
+        VERSION="$(echo "$GITHUB_REF" | sed 's|refs\/tags\/||')"
     fi
 fi
-ZIP_FILE="${MOD_NAME}_${version}.zip"
+ZIP_FILE="${MOD_NAME}_${VERSION}.zip"
 
 rm -rf "$RELEASE_DIR/text"
 mv text "$RELEASE_DIR/text"
