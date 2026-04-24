@@ -49,7 +49,7 @@
 {200}{}{Sfall}
 {201}{}{SCALA ALLA : RIS.}
 {202}{}{MOD. DX-9}
-{203}{}{Off}
+{203}{}{Spento}
 {204}{}{Pieno Schermo}
 {205}{}{Finestra}
 {206}{}{GPU Blitting}
