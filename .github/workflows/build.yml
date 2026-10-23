@@ -4,33 +4,38 @@ on:
   push:
   pull_request:
 
+env:
+  MOD_NAME: f2_res # as in extra/package.sh
+
 jobs:
   build:
     if: github.actor != 'bgforge-hive' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: ShellCheck
-        uses: ludeeus/action-shellcheck@master
+        uses: ludeeus/action-shellcheck@00cae500b08a931fb5698e11e79bfbd38e612a38 # 2.0.0
 
       - name: Build and package
         run: ./extra/package.sh
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
-          name: f2_res.zip
-          path: f2_res*.zip
+          compression-level: 0 # the zip holds a compressed .dat
+          name: ${{ env.MOD_NAME }}.zip
+          path: ${{ env.MOD_NAME }}*.zip
           if-no-files-found: error
 
       - name: Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@efb35369e0ad2afab669f228072c1b0d510eae64 # v3.0.3
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            f2_res*.zip
+            ${{ env.MOD_NAME }}*.zip
           fail_on_unmatched_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
