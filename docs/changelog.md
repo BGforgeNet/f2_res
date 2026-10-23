@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.7
+
+- Updated Italian translation.
+
 ## Version 0.6
 
 - Updated Italian translation.
